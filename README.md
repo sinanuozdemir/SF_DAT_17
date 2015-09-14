@@ -1,4 +1,4 @@
-## SF DAT17 Course Repository
+## SF DAT 17 Course Repository
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco/) in San Francisco, CA (9/14/15 - 12/02/15).
 
@@ -10,7 +10,10 @@ David, Matt, and Sri (who are all way more awesome)
 **Office hours:** All will be held in the student center at GA, 225 Bush Street
 
 
-**[Course Project information](project.md)**
+**[Course Project Information](project.md)**
+
+**[Course Project Examples](project-examples.md)**
+
 
 Monday | Wednesday
 --- | ---
@@ -24,14 +27,14 @@ Monday | Wednesday
 11/2: Ensembling Techniques  | 11/4: Dimension Reduction<br>**Milestone:** Peer Review Due
 11/9 Support Vector Machines | 11/11: Web Development with Flask
 11/16: Recommendation Engines | 11/18: TBD
-11/24: TBD | 8/17: TBD | 11/26: TBD
+11/24: TBD | 11/26: TBD
 11/31: Projects | 12/2: Projects
 
 
 ### Installation and Setup
 * Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
 * Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
-* Once you receive an email invitation from [Slack](https://slack.com/), join our "SF\_DAT\_15 team" and add your photo!
+* Once you receive an email invitation from [Slack](https://slack.com/), join our "SF\_DAT\_17 team" and add your photo!
 
 ### Resources
 * [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
@@ -41,3 +44,6 @@ Monday | Wednesday
 * Course overview: our philosophy and expectations ([slides](slides/01_course_overview.pdf))
 * Intro to Data Science: ([slides](slides/01_intro_to_ds.pdf))
 * Tools: check for proper setup of Git, Anaconda, overview of Slack
+
+####Homework
+* Make sure you have everything installed as specified above in "Installation and Setup" by Wednesday
