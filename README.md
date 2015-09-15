@@ -39,7 +39,7 @@ Monday | Wednesday
 ### Resources
 * [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
 
-### Class 1: Introduction / Expectations / Git Intro
+### Class 1: Introduction / Expectations / Intro to Data Science
 * Introduction to General Assembly
 * Course overview: our philosophy and expectations ([slides](slides/01_course_overview.pdf))
 * Intro to Data Science: ([slides](slides/01_intro_to_ds.pdf))
