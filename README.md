@@ -47,3 +47,20 @@ Monday | Wednesday
 
 ####Homework
 * Make sure you have everything installed as specified above in "Installation and Setup" by Wednesday
+
+
+### Class 2: Git / Python
+* Introduction to [Git](slides/02_git_github.pdf)
+* Intro to Python: ([code](code/02_python_refresher.py))
+
+####Homework
+* Go through the python file and finish any exercise you weren't able to in class
+* Make sure you have all of the repos cloned and ready to go
+	* You should have both "SF___DAT___17" and "SF___DAT___17__WORK"
+* Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) 
+
+#### Resources:
+* In depth Git/Github tutorial series made by a GA_DC  Data Science Instructor [here](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+* [Another Intro to Pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb) (Written by Wes McKinney and is adapted from his book)
+	* [Here](https://vimeo.com/59324550) is a video of Wes McKinney going through his notebook!
+	
