@@ -1,0 +1,1002 @@
+user_id,user_screen_name,user_full_name,user_created_date,user_location,newsletter
+10000000,quis,\N,2006-10-21 03:37:49,USA,0
+10000001,lobortis.nisi.nibh,Lee Rose,2010-08-17 21:51:17,USA,0
+10000002,vulputate,Indigo Sosa,2010-06-23 22:23:30,Canada,0
+10000003,sit.amet.orci,\N,2006-10-26 08:50:26,USA,0
+10000004,Proin.nisl,\N,2008-02-20 06:35:50,USA,0
+10000005,vulputate.lacus,MacKensie Wilcox,2006-08-07 08:54:57,USA,0
+10000006,blandit.at,Ferris Owen,2007-08-29 03:30:12,USA,0
+10000007,libero.Morbi,\N,2007-06-21 15:25:17,England,0
+10000008,sem,Damian Obrien,2010-12-07 16:28:26,USA,0
+10000009,sed.pede.nec,Marny Giles,2008-09-14 06:49:16,England,0
+10000010,quis.pede,Otto Beard,2008-04-06 08:40:45,Germany,1
+10000011,Morbi.metus,Geraldine Holloway,2007-07-17 09:11:45,USA,0
+10000012,magna.sed.dui,Keiko Goodwin,2009-07-11 16:57:01,USA,0
+10000013,id.sapien,Kerry May,2011-11-03 14:51:24,Canada,0
+10000014,eu.tellus,\N,2010-11-06 01:24:20,USA,0
+10000015,nascetur,\N,2007-11-12 12:08:05,Canada,1
+10000016,iaculis.aliquet,Hanae Carr,2009-09-15 08:40:59,USA,0
+10000017,dui,Rowan Meyers,2007-07-11 12:22:09,USA,1
+10000018,neque,\N,2006-01-20 00:25:39,USA,0
+10000019,nibh.lacinia.orci,Odette Gilliam,2011-01-08 02:09:56,USA,1
+10000020,Mauris.ut,Noelle Kline,2006-11-17 10:15:33,USA,0
+10000021,Quisque.varius.Nam,\N,2010-04-03 22:11:40,USA,0
+10000022,nunc.interdum.feugiat,Rebekah Sexton,2008-08-14 07:40:34,USA,1
+10000023,nulla.ante.iaculis,Scarlett Burch,2008-01-30 23:11:46,USA,0
+10000024,ornare,Karyn Sanders,2008-01-28 05:35:56,USA,0
+10000025,natoque.penatibus.et,Zelenia Kent,2009-05-25 12:50:04,USA,0
+10000026,Quisque.tincidunt,\N,2010-06-12 08:11:32,USA,0
+10000027,Vivamus,Lynn Morton,2008-09-27 23:58:18,USA,0
+10000028,sem.ut,\N,2007-07-03 14:16:15,Canada,0
+10000029,orci.Ut,\N,2009-02-27 11:56:07,USA,0
+10000030,Sed.neque,Janna Holt,2006-11-21 15:41:35,USA,0
+10000031,Duis.a.mi,Keely Gray,2010-07-12 19:32:11,USA,0
+10000032,pharetra,Stuart Harding,2009-06-16 11:38:40,USA,0
+10000033,lobortis.tellus,\N,2009-10-17 04:32:48,USA,1
+10000034,faucibus,\N,2008-10-24 03:52:03,USA,0
+10000035,Aenean.eget.magna,Brynn Alexander,2011-12-30 17:33:51,USA,0
+10000036,pharetra.ut.pharetra,Jasmine Ruiz,2010-08-14 20:12:46,USA,0
+10000037,turpis.Aliquam,Josephine Roy,2009-01-29 11:09:15,USA,0
+10000038,Aliquam.adipiscing.lobort,\N,2008-04-03 21:55:18,England,0
+10000039,sociis.natoque.penatibus,Kirby Miranda,2006-07-16 17:32:33,USA,0
+10000040,euismod.est.arcu,Petra Ballard,2008-01-18 12:36:28,USA,0
+10000041,Cras.lorem,\N,2006-12-05 09:19:52,USA,1
+10000042,fermentum.convallis.ligul,Alma Cline,2010-08-31 06:50:09,USA,0
+10000043,sed.est,Allistair Conrad,2008-11-24 23:24:53,USA,0
+10000044,semper.pretium.neque,Brady Wells,2010-01-10 16:36:42,USA,0
+10000045,quis.diam,Abigail Bird,2007-04-20 19:41:15,Mexico,0
+10000046,neque.venenatis,Kimberly Pacheco,2011-11-17 17:07:14,USA,0
+10000047,dolor.vitae.dolor,Nissim Small,2010-06-08 07:37:55,Canada,1
+10000048,sit,Erica Mills,2011-05-12 00:24:14,USA,0
+10000049,sapien.imperdiet.ornare,Hamilton Acevedo,2008-03-29 17:21:01,France,0
+10000050,in.faucibus.orci,Preston Bates,2011-05-12 13:54:17,Canada,0
+10000051,arcu,Frances Callahan,2011-01-18 07:59:09,USA,0
+10000052,mollis,Fritz Williamson,2009-04-05 13:14:44,USA,1
+10000053,facilisis,Ferdinand Graves,2011-07-13 23:06:43,USA,0
+10000054,sed.pede.nec,Ross Alvarado,2006-01-26 08:47:01,USA,0
+10000055,non.leo.Vivamus,\N,2008-08-17 09:46:50,Canada,0
+10000056,viverra.Maecenas,Emily Terrell,2007-04-15 17:30:22,Mexico,0
+10000057,laoreet.posuere,Whilemina Hardin,2007-05-03 00:42:25,Germany,0
+10000058,nisi,\N,2007-09-07 23:38:58,USA,1
+10000059,velit.eget,\N,2011-09-13 11:28:08,USA,0
+10000060,Sed.nulla.ante,\N,2006-03-29 06:27:39,England,0
+10000061,dolor,Melissa Stein,2008-04-27 07:55:05,Canada,1
+10000062,bibendum.ullamcorper.Duis,\N,2009-02-22 09:44:49,Mexico,0
+10000063,ipsum.Suspendisse,\N,2008-11-30 22:26:12,USA,0
+10000064,egestas,\N,2008-02-29 15:48:37,Canada,0
+10000065,rutrum.eu.ultrices,Charde Brady,2008-07-28 20:23:38,USA,0
+10000066,auctor.vitae,Arden Sanders,2009-06-16 13:59:57,USA,0
+10000067,commodo.auctor,Len Gibson,2009-08-14 11:08:39,USA,1
+10000068,pede,Pamela Frazier,2008-07-16 23:49:15,USA,1
+10000069,in.consequat,\N,2008-08-23 12:12:55,USA,0
+10000070,odio.Aliquam.vulputate,Perry Washington,2007-05-29 12:52:17,USA,0
+10000071,metus.In.nec,Tara Rush,2009-12-25 12:50:11,USA,0
+10000072,nunc,Wallace House,2010-05-25 13:24:47,USA,1
+10000073,diam,\N,2010-01-14 21:25:47,USA,1
+10000074,magna.malesuada,\N,2010-09-02 04:11:35,USA,0
+10000075,ipsum.dolor.sit,Ruth Holder,2011-11-20 02:39:00,USA,0
+10000076,lobortis,Leigh Holloway,2009-04-07 00:41:42,USA,0
+10000077,Pellentesque.habitant.mor,Leilani Neal,2008-06-10 16:55:11,USA,0
+10000078,dis,\N,2008-04-27 15:15:00,USA,0
+10000079,non.justo.Proin,Lewis Crane,2008-07-20 01:54:17,USA,1
+10000080,egestas.nunc,Doris Carter,2009-10-08 15:25:08,USA,1
+10000081,ac.libero.nec,Burke Hamilton,2009-11-11 01:42:09,USA,0
+10000082,interdum,\N,2006-05-14 10:03:36,USA,0
+10000083,dis.parturient,\N,2008-02-20 03:47:21,USA,1
+10000084,non.lorem,\N,2011-02-18 17:05:32,Mexico,0
+10000085,nec.tellus.Nunc,\N,2010-01-15 17:47:11,USA,1
+10000086,In.lorem,Cyrus York,2010-04-19 13:58:29,USA,1
+10000087,nonummy.ut.molestie,\N,2008-04-02 07:22:37,Canada,0
+10000088,magna.sed.dui,Isabelle Travis,2006-04-15 20:31:53,USA,0
+10000089,enim.Suspendisse,Elmo Curtis,2007-07-04 10:50:31,France,0
+10000090,augue.ut,Ila Pitts,2011-04-22 20:22:42,England,0
+10000091,sapien.Cras.dolor,Nathaniel Burns,2006-11-21 05:43:12,USA,1
+10000092,lacinia.orci.consectetuer,Rama Bishop,2008-02-08 07:28:26,Mexico,0
+10000093,eu.dui,\N,2009-08-23 09:43:53,Canada,1
+10000094,in.dolor,\N,2008-03-28 14:09:36,USA,1
+10000095,adipiscing.fringilla.port,\N,2010-08-07 00:32:48,USA,0
+10000096,amet.dapibus.id,Joseph Barnett,2006-09-02 06:51:33,USA,0
+10000097,Donec.non,Darryl Melendez,2009-12-27 22:36:12,Canada,0
+10000098,placerat.augue,Aretha Bray,2006-09-01 13:22:05,USA,0
+10000099,mi.eleifend,\N,2008-07-27 20:51:14,USA,0
+10000100,dis.parturient,\N,2009-01-17 12:30:41,USA,1
+10000101,lorem.vitae,\N,2006-02-24 03:19:26,USA,1
+10000102,gravida.nunc,Dana Church,2009-06-09 23:21:45,Mexico,0
+10000103,Suspendisse.sagittis.Null,\N,2010-11-15 11:30:58,USA,0
+10000104,Quisque.ornare,Leo Quinn,2009-09-04 09:28:42,USA,0
+10000105,Integer.tincidunt,\N,2010-03-26 06:32:37,USA,0
+10000106,magna.Sed,Mariam Walter,2009-11-27 11:53:57,Mexico,1
+10000107,aliquam.eros,Hu Mercado,2006-09-25 18:56:58,USA,0
+10000108,tincidunt,Finn Hughes,2011-10-10 13:08:12,Germany,0
+10000109,ornare.placerat.orci,Ginger Thornton,2009-07-24 00:57:34,Canada,0
+10000110,vel.faucibus.id,Zeus Dillard,2006-02-20 21:26:24,USA,0
+10000111,fringilla,Kennedy Mccarty,2010-03-02 10:26:32,USA,0
+10000112,nibh,Cally Mullins,2009-08-26 04:52:05,USA,0
+10000113,Vivamus,Suki Grant,2011-05-16 14:10:58,USA,1
+10000114,amet.dapibus.id,\N,2006-06-15 00:37:59,USA,0
+10000115,eget.laoreet,\N,2008-12-08 18:47:19,USA,0
+10000116,a,Sebastian Snider,2008-10-04 00:43:26,USA,0
+10000117,massa.rutrum.magna,\N,2007-11-30 09:36:17,USA,0
+10000118,accumsan.laoreet,Chaney Nash,2007-02-16 18:47:36,USA,0
+10000119,lacus.varius.et,\N,2010-04-26 23:16:02,USA,0
+10000120,molestie,Ivana Wilcox,2008-08-23 19:45:12,USA,1
+10000121,Duis,\N,2008-06-16 03:18:03,England,0
+10000122,massa,Castor Howe,2008-12-25 21:07:28,USA,0
+10000123,est.tempor.bibendum,\N,2011-01-13 11:20:15,USA,0
+10000124,nunc.risus.varius,\N,2010-01-30 17:15:42,Canada,0
+10000125,Curabitur.dictum,Rana Griffin,2006-10-22 23:29:43,USA,1
+10000126,ac.eleifend,\N,2010-05-10 20:42:39,Germany,0
+10000127,et,Madison Hood,2008-10-27 15:01:20,USA,0
+10000128,et.ipsum,\N,2010-12-26 06:58:08,England,0
+10000129,Nullam.enim.Sed,\N,2006-05-16 20:18:34,USA,0
+10000130,nisi.sem.semper,Summer Mitchell,2008-08-06 07:38:08,USA,1
+10000131,massa.Suspendisse,Katelyn Neal,2006-05-13 11:09:17,USA,0
+10000132,justo,Maite Rollins,2008-09-12 18:07:57,Canada,0
+10000133,neque.venenatis,Eliana Bowers,2006-04-08 18:00:46,England,0
+10000134,eu,Craig Rollins,2010-12-22 04:10:33,Canada,1
+10000135,erat.neque,Sybil Chambers,2011-05-29 16:33:32,USA,0
+10000136,fringilla,Ferdinand Hinton,2010-12-15 15:20:20,USA,0
+10000137,Proin.velit.Sed,Jenna Carney,2010-02-21 12:15:20,USA,1
+10000138,aliquet,\N,2006-09-18 19:43:06,USA,0
+10000139,Phasellus.in,Amos Golden,2008-07-10 05:16:46,USA,1
+10000140,Lorem,Olivia Gillespie,2008-10-20 10:58:35,England,1
+10000141,mollis.nec.cursus,\N,2007-01-24 05:22:39,USA,0
+10000142,et.commodo,\N,2008-09-14 03:50:47,USA,0
+10000143,ut,Julie Oneil,2011-01-17 15:59:26,USA,0
+10000144,vitae.purus,\N,2006-10-30 05:06:30,USA,0
+10000145,a.tortor,Ruby Murray,2009-09-08 22:44:29,USA,0
+10000146,ut.sem.Nulla,\N,2010-05-29 12:28:45,Germany,0
+10000147,Proin,Dennis Craig,2010-05-24 23:27:01,England,0
+10000148,ac,Emmanuel Estrada,2009-05-19 17:44:47,USA,0
+10000149,suscipit.est.ac,\N,2010-01-31 22:48:55,France,0
+10000150,euismod.in,\N,2010-12-28 21:39:43,USA,1
+10000151,eget.massa,\N,2010-01-24 03:17:04,USA,0
+10000152,dui.in.sodales,Judah Mckinney,2006-09-17 16:22:50,USA,0
+10000153,Etiam.laoreet.libero,Kylie Nguyen,2008-05-27 07:33:27,USA,0
+10000154,Integer.eu,Madeson Mays,2009-07-17 08:26:59,USA,1
+10000155,Integer.urna,\N,2008-07-22 00:59:02,USA,0
+10000156,id,Lawrence Anthony,2006-08-21 14:00:06,USA,1
+10000157,ut.lacus.Nulla,Ulla Sanders,2008-08-25 00:19:21,Germany,0
+10000158,ornare.placerat,\N,2008-10-20 00:49:07,USA,0
+10000159,nulla.Integer,\N,2007-08-21 17:03:33,USA,0
+10000160,iaculis.odio.Nam,Tate Henry,2010-03-09 22:48:02,USA,1
+10000161,gravida,Darius Mckenzie,2011-12-01 09:41:10,USA,1
+10000162,consectetuer.adipiscing.e,\N,2009-03-06 02:41:24,USA,0
+10000163,Donec.vitae,\N,2009-03-07 20:41:53,USA,0
+10000164,Vivamus,Victor Cortez,2007-12-21 14:23:32,USA,0
+10000165,Nulla.facilisis.Suspendis,\N,2009-04-13 15:27:55,USA,0
+10000166,urna.Ut.tincidunt,\N,2006-03-27 06:53:02,USA,0
+10000167,in,\N,2010-01-24 14:14:06,Canada,0
+10000168,sit,Paki Humphrey,2010-08-08 19:12:13,USA,1
+10000169,laoreet.ipsum.Curabitur,Harlan Guerra,2008-12-08 03:57:24,USA,1
+10000170,adipiscing,\N,2010-07-18 07:55:49,England,0
+10000171,molestie,\N,2009-10-29 09:32:30,USA,1
+10000172,litora.torquent,Ian Burt,2011-05-09 22:25:23,USA,1
+10000173,ante.lectus.convallis,\N,2008-01-13 00:46:29,France,1
+10000174,elit,Cameron Juarez,2009-04-01 05:07:05,USA,0
+10000175,In.scelerisque,Stephen Bowen,2011-09-18 08:05:08,USA,0
+10000176,eu,\N,2006-10-17 14:44:39,USA,1
+10000177,ut.ipsum,Aaron Sosa,2008-05-02 14:03:30,Mexico,0
+10000178,Donec.felis.orci,\N,2008-11-26 18:28:40,Canada,0
+10000179,et.arcu,Drake Simmons,2008-03-31 22:53:42,USA,1
+10000180,nec.tellus,Kylie King,2011-01-02 09:11:22,Mexico,1
+10000181,fringilla.mi.lacinia,\N,2007-06-11 05:46:52,USA,1
+10000182,fames.ac.turpis,Pascale Justice,2008-02-04 12:03:52,USA,1
+10000183,nisi.sem.semper,Jamalia Welch,2006-02-26 00:51:05,USA,0
+10000184,ante.Nunc.mauris,Connor Clarke,2009-09-22 01:14:08,USA,0
+10000185,rhoncus.Nullam,Oleg Miranda,2010-08-10 17:43:55,USA,1
+10000186,sociis,Donovan Riley,2011-11-02 04:26:19,USA,0
+10000187,mi,\N,2010-11-09 22:36:02,USA,0
+10000188,feugiat.non.lobortis,\N,2010-02-03 21:40:41,USA,0
+10000189,scelerisque,\N,2007-07-29 02:07:14,USA,0
+10000190,neque.Morbi,Carissa Carpenter,2008-06-02 23:15:40,Canada,0
+10000191,Phasellus.in.felis,Joelle Dejesus,2007-02-17 08:04:37,USA,0
+10000192,consectetuer.adipiscing,Blaze Kramer,2009-07-18 17:05:31,USA,0
+10000193,consectetuer,Nicole Albert,2009-02-21 02:14:14,USA,0
+10000194,Mauris,Jennifer Hutchinson,2006-05-17 17:34:52,USA,0
+10000195,sem.mollis.dui,Josephine Delgado,2011-09-04 11:40:51,USA,0
+10000196,a.sollicitudin.orci,\N,2008-10-05 12:15:19,England,0
+10000197,tellus,Tamara King,2009-11-02 02:11:49,Mexico,0
+10000198,urna,Brynne Norton,2008-08-03 06:07:19,England,0
+10000199,augue.id.ante,Jameson Riddle,2011-01-07 10:54:45,USA,0
+10000200,malesuada.Integer.id,Dustin Davis,2007-12-29 15:05:59,USA,0
+10000201,parturient.montes.nascetu,Thomas Figueroa,2006-10-20 10:53:40,USA,1
+10000202,Donec,Yasir Matthews,2007-09-08 01:07:15,USA,0
+10000203,faucibus.orci.luctus,Kaseem Rowe,2007-12-05 22:39:52,Germany,0
+10000204,nunc.ullamcorper,Arsenio Fleming,2010-08-14 11:40:11,USA,0
+10000205,laoreet.ipsum,Maggy Beach,2008-07-07 20:32:56,Mexico,0
+10000206,sit.amet.diam,Austin Coleman,2008-04-24 18:30:35,Canada,0
+10000207,faucibus.id.libero,\N,2007-03-29 10:42:21,USA,0
+10000208,lacus.varius,Silas Stark,2011-09-21 21:51:18,USA,1
+10000209,sit.amet,Odette Bates,2007-04-19 07:26:21,USA,0
+10000210,sodales,\N,2008-06-09 05:16:10,Mexico,0
+10000211,metus.In.lorem,\N,2007-10-24 16:30:17,Canada,0
+10000212,tempor.erat.neque,Fallon Monroe,2007-07-24 07:46:17,USA,1
+10000213,mauris.Morbi,\N,2007-10-20 12:48:52,USA,0
+10000214,mattis.velit.justo,Asher Alford,2006-02-07 15:58:27,USA,0
+10000215,dapibus,Irene Serrano,2009-02-23 17:50:37,USA,1
+10000216,non.lobortis.quis,\N,2008-12-17 01:16:17,USA,0
+10000217,nulla,\N,2010-03-03 21:49:25,USA,0
+10000218,facilisis,Kasper Battle,2011-01-23 17:36:48,USA,0
+10000219,Etiam,Abel Oconnor,2006-07-22 12:27:26,USA,0
+10000220,euismod,Clayton Savage,2011-04-17 02:39:31,Mexico,0
+10000221,lorem.ut,\N,2009-04-10 00:59:01,Canada,0
+10000222,Aliquam,Summer Strong,2007-09-14 13:29:48,USA,1
+10000223,nunc,Kylee Mercado,2011-03-02 20:04:46,USA,0
+10000224,tortor.dictum.eu,\N,2009-10-05 20:12:30,USA,0
+10000225,in,Jena Blanchard,2011-12-24 07:44:09,USA,0
+10000226,tincidunt,Nolan Fitzgerald,2009-01-28 11:27:08,France,0
+10000227,dui,Raven Miranda,2006-05-08 08:29:52,Germany,1
+10000228,et.pede,\N,2011-04-22 05:13:36,USA,0
+10000229,lorem,\N,2006-11-14 14:51:21,Canada,0
+10000230,velit.Pellentesque.ultric,Amethyst Moody,2007-07-26 06:08:59,USA,0
+10000231,sollicitudin.commodo,Lee Bailey,2009-09-10 07:28:19,USA,0
+10000232,Cum,Logan Reid,2011-09-22 06:01:52,USA,0
+10000233,cursus.et.magna,\N,2011-09-25 21:54:47,USA,0
+10000234,luctus,\N,2009-12-25 09:10:23,USA,0
+10000235,ac,\N,2007-01-11 09:42:56,England,0
+10000236,sit,\N,2006-05-19 03:19:45,USA,0
+10000237,Nulla.facilisi.Sed,Adara Frost,2010-08-28 13:27:54,USA,0
+10000238,eleifend.Cras.sed,\N,2011-09-12 09:27:17,USA,0
+10000239,auctor,Yetta Mckay,2009-10-09 01:29:46,USA,0
+10000240,aliquam.enim.nec,Lydia Brewer,2010-08-19 22:00:26,USA,0
+10000241,et.magnis,\N,2009-07-21 02:18:53,USA,0
+10000242,laoreet,\N,2011-04-29 01:12:49,USA,0
+10000243,consectetuer.mauris.id,Alexandra Haynes,2008-05-04 01:06:38,USA,0
+10000244,senectus.et.netus,\N,2008-06-04 14:26:26,USA,0
+10000245,Praesent.luctus,\N,2008-04-20 07:26:57,Canada,1
+10000246,morbi.tristique.senectus,Maite Flores,2008-09-11 11:27:53,USA,0
+10000247,quis.diam,\N,2011-05-20 16:52:54,Canada,0
+10000248,fringilla.ornare.placerat,Brennan Benson,2011-10-24 05:18:49,Germany,0
+10000249,neque,\N,2006-04-04 11:17:35,USA,0
+10000250,tincidunt.vehicula,Jolene Mckay,2009-10-21 03:38:43,USA,0
+10000251,vulputate,Griffin Oneil,2008-10-02 13:49:12,USA,0
+10000252,Sed.malesuada,\N,2006-11-20 14:11:33,USA,1
+10000253,Pellentesque,\N,2006-02-19 21:47:59,USA,1
+10000254,feugiat.metus,Mallory Ortega,2010-02-22 08:00:33,USA,0
+10000255,sem.vitae,Amela Workman,2011-10-01 11:19:46,Mexico,1
+10000256,Mauris.blandit,Astra Abbott,2006-10-09 13:30:12,USA,0
+10000257,aliquam,\N,2006-10-08 19:55:26,Mexico,0
+10000258,dis.parturient,\N,2011-06-20 04:25:13,USA,1
+10000259,fermentum.convallis.ligul,Xantha Hunter,2010-05-01 14:39:32,USA,0
+10000260,faucibus,\N,2008-03-28 19:18:47,Canada,0
+10000261,nascetur,\N,2011-08-03 14:43:01,USA,0
+10000262,tincidunt,Kaye Simpson,2006-09-13 03:04:33,Canada,0
+10000263,neque.tellus.imperdiet,\N,2007-06-23 01:24:15,USA,0
+10000264,rhoncus.Donec,Lucy Clements,2011-09-18 17:03:03,USA,0
+10000265,et.magnis,Arden Cherry,2007-07-28 13:17:39,USA,0
+10000266,faucibus.orci.luctus,Harlan Foley,2007-04-14 11:53:39,Canada,0
+10000267,mi,Driscoll Fischer,2008-09-19 13:57:33,USA,0
+10000268,penatibus.et.magnis,Keane Newman,2006-06-04 03:34:29,Germany,0
+10000269,ullamcorper,Maris Vang,2007-01-16 10:01:11,USA,1
+10000270,Praesent.luctus,\N,2011-09-14 19:46:53,USA,0
+10000271,augue.ut.lacus,Quemby Mcintosh,2010-05-08 21:23:14,USA,1
+10000272,scelerisque.sed,Travis Gilliam,2007-03-22 00:36:45,USA,0
+10000273,nunc.est.mollis,Camden Franks,2006-10-09 06:32:11,USA,0
+10000274,ut.ipsum.ac,\N,2007-12-10 11:09:59,USA,0
+10000275,odio,\N,2011-01-07 05:19:33,USA,0
+10000276,Sed.neque,Eric Delaney,2011-02-15 02:12:50,USA,1
+10000277,libero.mauris.aliquam,Lavinia Cunningham,2011-01-18 03:05:52,USA,0
+10000278,nulla.ante.iaculis,\N,2006-10-23 23:30:37,USA,0
+10000279,sem.ut.dolor,\N,2006-01-14 01:00:47,USA,0
+10000280,rutrum.justo,\N,2007-06-03 06:02:22,USA,0
+10000281,sed.sem,Colby Shepard,2008-04-05 22:27:55,USA,1
+10000282,Morbi.sit,\N,2008-01-25 08:59:40,USA,0
+10000283,lectus.pede.ultrices,Sage Sheppard,2007-07-25 14:27:41,Canada,1
+10000284,Aliquam.ornare,\N,2007-05-01 12:24:05,USA,0
+10000285,diam,Howard Bond,2008-10-06 04:22:02,USA,0
+10000286,senectus,Amelia Maynard,2008-07-02 03:25:29,USA,0
+10000287,lectus.a,\N,2007-09-15 06:56:41,USA,0
+10000288,Donec.vitae,Margaret Meadows,2011-10-22 03:30:32,England,1
+10000289,magna.nec.quam,\N,2008-07-18 07:00:32,USA,0
+10000290,eleifend,Blaze Pickett,2007-12-07 05:03:42,USA,0
+10000291,risus,\N,2006-12-26 08:01:52,USA,1
+10000292,tincidunt.tempus.risus,Haley Mendez,2010-01-23 17:32:33,Germany,0
+10000293,aliquet.magna,Celeste Park,2010-04-27 11:06:28,USA,0
+10000294,interdum,\N,2009-09-13 23:01:40,USA,0
+10000295,pellentesque.eget.dictum,Shelby Patrick,2011-08-18 10:55:22,France,0
+10000296,a.ultricies.adipiscing,Tamekah Hinton,2010-09-14 21:22:29,Mexico,1
+10000297,pharetra.sed,\N,2010-11-08 11:33:36,USA,0
+10000298,Duis.mi,Mikayla Simmons,2011-02-28 18:31:57,USA,1
+10000299,dui,\N,2008-01-17 03:39:11,USA,1
+10000300,lectus.pede.et,Brielle Barrera,2006-12-21 06:00:31,USA,0
+10000301,dictum,Leonard Foley,2008-11-17 16:54:07,USA,0
+10000302,nisi.a,Erin Mullins,2008-12-30 23:06:50,USA,1
+10000303,sem.Pellentesque,\N,2008-01-25 22:11:42,Canada,1
+10000304,urna.Nullam.lobortis,\N,2008-05-11 13:14:42,Germany,1
+10000305,pede.ac.urna,\N,2010-10-18 10:45:38,USA,1
+10000306,eget.tincidunt,Brynn Mcguire,2009-02-23 19:57:40,Mexico,0
+10000307,tristique,\N,2008-06-15 14:38:50,USA,1
+10000308,per.inceptos,Derek Matthews,2006-07-06 17:23:28,USA,0
+10000309,fringilla.Donec,Timothy Sutton,2007-10-09 04:25:22,USA,0
+10000310,augue,Ethan Lara,2011-01-24 09:00:47,USA,0
+10000311,mauris.a,Denton Wall,2007-03-23 19:04:40,Canada,1
+10000312,magna,Phyllis Blankenship,2008-10-09 22:48:48,USA,1
+10000313,felis.ullamcorper,Dolan Serrano,2006-05-17 13:01:07,USA,0
+10000314,Duis.gravida.Praesent,Adara Nielsen,2010-11-15 17:02:07,USA,1
+10000315,egestas.Sed,Tatum Rush,2010-02-13 03:18:59,USA,0
+10000316,vitae.posuere.at,Frances Juarez,2006-04-06 02:17:27,USA,0
+10000317,amet.lorem.semper,\N,2011-10-16 19:57:30,USA,0
+10000318,ligula.Nullam,\N,2008-06-27 17:55:15,USA,1
+10000319,arcu,Wade Harrison,2007-02-04 03:02:59,USA,0
+10000320,luctus,Conan Contreras,2006-10-08 17:42:51,Mexico,1
+10000321,montes.nascetur.ridiculus,Urielle Sims,2009-10-20 13:18:18,USA,0
+10000322,consequat.dolor,Candice Ingram,2011-03-23 05:38:59,USA,0
+10000323,urna.suscipit.nonummy,\N,2009-03-02 14:17:53,USA,0
+10000324,parturient,\N,2011-12-25 07:40:22,USA,1
+10000325,volutpat.Nulla.facilisis,\N,2008-08-22 01:44:26,USA,0
+10000326,dolor.dolor.tempus,Eugenia Travis,2006-06-22 13:25:11,USA,0
+10000327,ultrices.posuere,\N,2009-04-18 01:54:33,USA,0
+10000328,orci,Maile Martinez,2008-10-13 02:26:43,USA,0
+10000329,sagittis.felis.Donec,Wayne Santiago,2011-06-10 07:17:40,USA,0
+10000330,Cras.dolor.dolor,Sybil Perry,2010-10-17 11:33:04,Mexico,0
+10000331,dui.Cum.sociis,\N,2010-08-12 05:13:03,USA,0
+10000332,dolor.egestas.rhoncus,\N,2008-06-26 09:32:51,USA,1
+10000333,mauris.Morbi,Davis Ballard,2008-01-04 21:29:58,France,0
+10000334,malesuada.fringilla.est,\N,2010-12-24 20:41:09,USA,0
+10000335,iaculis,Gay Singleton,2010-04-29 11:13:06,USA,0
+10000336,penatibus,Diana Schultz,2007-08-07 08:24:03,USA,0
+10000337,cursus.luctus,Piper Hudson,2008-01-04 11:47:12,Germany,0
+10000338,Nunc.ac.sem,\N,2011-07-13 20:07:17,USA,0
+10000339,dolor.quam.elementum,\N,2006-10-25 05:14:20,USA,0
+10000340,ipsum.Curabitur,\N,2009-05-09 21:54:18,USA,0
+10000341,magna,Omar Parker,2008-01-06 20:40:02,USA,0
+10000342,Integer,Ivana Macdonald,2006-02-12 16:32:35,USA,1
+10000343,luctus,Teagan Paul,2006-01-29 04:41:55,USA,0
+10000344,luctus.felis.purus,Blake Nunez,2006-10-27 22:50:42,USA,0
+10000345,tincidunt.pede,\N,2009-11-20 19:21:50,USA,0
+10000346,fermentum.convallis.ligul,Taylor Leach,2009-12-10 04:38:27,USA,1
+10000347,odio.a.purus,Joan Phelps,2009-08-22 03:20:47,USA,1
+10000348,leo.in,Brooke Page,2010-09-14 16:49:15,USA,0
+10000349,sagittis,\N,2006-09-11 15:27:53,Canada,0
+10000350,enim.gravida,\N,2009-10-26 20:41:36,USA,0
+10000351,magna,Michelle Richard,2011-12-02 13:15:59,USA,0
+10000352,vestibulum,\N,2006-12-30 01:41:52,USA,0
+10000353,mattis,Dana Huber,2007-05-15 19:45:02,Canada,0
+10000354,molestie.pharetra,Nathaniel Mcleod,2011-07-18 08:35:20,USA,0
+10000355,diam.dictum,Jayme Marshall,2011-08-25 06:56:35,USA,1
+10000356,Mauris.vel,Guy Wise,2007-10-12 00:04:01,Mexico,1
+10000357,neque.sed,\N,2006-01-18 18:26:30,USA,0
+10000358,sodales.elit.erat,Tyler Solomon,2006-10-11 06:11:30,USA,1
+10000359,urna.Vivamus,\N,2006-03-13 16:35:21,USA,1
+10000360,molestie,Moana Blackburn,2008-01-22 00:46:29,USA,0
+10000361,nec.tempus.mauris,\N,2007-03-30 18:44:35,USA,0
+10000362,erat.volutpat,Sandra Burnett,2010-02-11 01:21:24,USA,1
+10000363,Etiam.laoreet.libero,\N,2007-04-18 06:11:15,USA,1
+10000364,nisi.Aenean,\N,2011-04-01 13:40:25,Canada,0
+10000365,massa,\N,2009-08-07 18:59:34,USA,0
+10000366,Mauris,\N,2011-12-20 07:10:58,USA,0
+10000367,pulvinar.arcu,\N,2011-06-16 17:48:54,Canada,0
+10000368,metus.sit,\N,2011-06-10 01:34:04,USA,0
+10000369,vitae.aliquam,Maryam Valencia,2008-08-16 07:44:18,Canada,0
+10000370,ut.dolor.dapibus,Cameran Macdonald,2007-07-14 23:49:46,USA,0
+10000371,at.iaculis,Liberty Baxter,2009-05-17 02:20:39,Mexico,0
+10000372,eu.eros.Nam,Lane Parks,2007-12-20 18:26:43,USA,0
+10000373,elit.fermentum,\N,2009-07-24 23:53:36,USA,0
+10000374,taciti.sociosqu,\N,2008-07-01 02:24:59,USA,1
+10000375,non.hendrerit,\N,2009-06-07 06:33:14,Canada,0
+10000376,mi.felis.adipiscing,Shellie Buckley,2009-01-15 05:37:40,USA,0
+10000377,feugiat.nec,\N,2010-12-17 10:26:02,USA,1
+10000378,ante,Velma Alford,2011-04-08 02:51:51,USA,0
+10000379,ut.dolor.dapibus,\N,2006-01-08 05:30:32,USA,0
+10000380,Donec,\N,2011-09-17 17:30:17,USA,0
+10000381,magna.Sed.eu,\N,2010-06-22 17:52:00,USA,0
+10000382,rhoncus.id,Elijah Conway,2011-06-17 17:01:07,USA,0
+10000383,odio.Phasellus.at,\N,2007-04-27 02:12:27,USA,0
+10000384,risus.Nunc,\N,2011-10-16 08:36:42,USA,1
+10000385,nunc,\N,2011-11-29 22:14:33,USA,0
+10000386,aliquam,\N,2007-07-11 19:04:09,Canada,0
+10000387,enim,Brendan Mendez,2011-06-28 12:49:56,USA,1
+10000388,sagittis,\N,2006-02-25 09:12:00,USA,0
+10000389,mi.tempor.lorem,\N,2009-01-23 16:37:55,USA,0
+10000390,nisl.Quisque,Kim Alvarez,2007-03-26 05:25:24,USA,0
+10000391,tristique.pharetra.Quisqu,\N,2008-03-01 20:10:12,USA,0
+10000392,lacus,\N,2006-12-04 22:48:36,Germany,0
+10000393,non.ante,Jack Dudley,2009-11-29 02:57:01,Mexico,0
+10000394,velit,Omar Parrish,2006-11-05 11:51:10,Mexico,0
+10000395,Lorem,Nash Eaton,2011-11-10 07:48:39,Mexico,0
+10000396,mauris.Morbi,Heidi Farrell,2011-11-26 16:59:05,USA,1
+10000397,tellus.lorem.eu,Aristotle Fitzgerald,2008-12-05 23:29:53,USA,0
+10000398,felis.Nulla,Angelica Montgomery,2010-06-02 23:04:16,Germany,0
+10000399,amet.nulla,\N,2008-06-11 17:00:38,USA,1
+10000400,Morbi.accumsan.laoreet,\N,2010-11-28 11:49:27,USA,0
+10000401,Aliquam.ultrices.iaculis,Kirsten Skinner,2007-09-18 18:43:00,USA,0
+10000402,metus,Adrienne Dixon,2011-05-09 06:42:05,USA,0
+10000403,eget,Jenna Barron,2006-06-12 16:57:25,Mexico,0
+10000404,quis,\N,2009-02-09 04:14:17,USA,0
+10000405,ornare.lectus.ante,\N,2006-07-24 17:42:12,France,0
+10000406,vel.quam,\N,2011-05-09 10:46:12,USA,0
+10000407,condimentum,Tamara Cabrera,2006-06-07 08:59:59,France,0
+10000408,parturient.montes,Morgan Stephens,2006-01-16 22:10:52,USA,0
+10000409,tellus.sem.mollis,Felix Livingston,2011-02-25 18:28:41,USA,1
+10000410,dis.parturient.montes,Leigh Burt,2010-05-30 00:28:41,Canada,0
+10000411,eleifend.egestas,\N,2011-12-12 18:58:19,USA,0
+10000412,quam.quis.diam,\N,2009-09-21 17:51:15,USA,0
+10000413,egestas.Fusce,\N,2009-02-13 00:55:26,USA,0
+10000414,Aenean.massa.Integer,\N,2008-07-09 11:10:06,Canada,1
+10000415,ultrices.mauris,Lucy Becker,2011-06-05 01:20:32,USA,0
+10000416,mauris.Morbi.non,Iris Sweeney,2007-06-08 03:25:52,Mexico,0
+10000417,adipiscing.elit.Aliquam,Zephania Hahn,2009-11-13 00:41:52,France,0
+10000418,nisl,Timon Schultz,2009-04-15 16:03:06,USA,1
+10000419,vel,Jamalia Merrill,2009-10-19 18:15:52,USA,0
+10000420,aliquet.magna,\N,2010-09-18 03:11:53,USA,0
+10000421,in.faucibus.orci,Ruth Silva,2011-12-24 15:59:43,USA,1
+10000422,eget.venenatis.a,Odysseus Cotton,2008-01-15 03:43:08,USA,1
+10000423,nibh,Selma Bradford,2006-02-01 04:50:43,USA,0
+10000424,arcu.et,\N,2008-07-11 09:35:14,USA,1
+10000425,orci.lacus.vestibulum,Robert Villarreal,2006-06-12 10:50:38,USA,1
+10000426,Ut.semper,Merrill Moody,2010-12-20 15:25:34,USA,0
+10000427,Pellentesque,Ulla Sexton,2009-12-22 02:22:01,Canada,0
+10000428,tellus,Ezekiel Wagner,2007-11-25 14:18:05,USA,1
+10000429,magnis,Sylvia Foley,2006-05-21 12:09:57,USA,0
+10000430,aliquam.eu.accumsan,Illana Ferguson,2011-09-04 18:05:15,England,1
+10000431,quis.diam,Zelenia Carver,2007-02-23 11:56:41,Germany,0
+10000432,elementum.purus,\N,2007-02-20 14:16:14,USA,0
+10000433,eu,\N,2007-07-04 11:34:09,USA,0
+10000434,commodo.tincidunt,Yvette Solomon,2008-05-08 13:28:46,Canada,0
+10000435,scelerisque.dui,Lucy Knight,2008-10-10 00:27:23,USA,1
+10000436,nunc,\N,2009-07-06 11:00:57,USA,1
+10000437,auctor.velit,\N,2007-09-06 01:55:01,England,0
+10000438,diam.Pellentesque,Melinda Maddox,2009-11-27 17:14:47,USA,0
+10000439,Quisque.fringilla.euismod,Stone Conley,2008-04-10 00:37:58,USA,0
+10000440,arcu.Vestibulum,Kane Dillard,2006-01-01 13:27:51,Mexico,0
+10000441,sociis.natoque.penatibus,\N,2006-08-29 19:02:09,Germany,0
+10000442,egestas.Fusce.aliquet,Hammett Moss,2009-11-25 00:57:55,USA,1
+10000443,dolor.nonummy.ac,Carl Carson,2008-01-21 12:09:21,England,0
+10000444,ante,\N,2011-12-29 06:09:17,USA,0
+10000445,congue.In.scelerisque,\N,2007-02-25 10:59:17,Canada,0
+10000446,erat.semper,\N,2010-07-18 02:11:21,USA,0
+10000447,sagittis.Duis.gravida,\N,2010-04-15 03:47:47,USA,1
+10000448,luctus.et,\N,2008-01-14 11:14:50,Germany,0
+10000449,feugiat.placerat.velit,Idona Solomon,2008-07-10 16:00:28,USA,0
+10000450,metus,Magee Shannon,2008-03-13 04:06:37,USA,1
+10000451,enim.commodo,Lacota Wilkins,2009-12-29 12:53:03,USA,0
+10000452,magna,Melodie Hogan,2008-10-27 22:00:37,USA,0
+10000453,vel,\N,2007-08-13 15:53:01,USA,0
+10000454,lectus.Cum.sociis,\N,2008-07-28 18:25:27,USA,1
+10000455,lectus,Emery Weaver,2009-10-22 23:19:06,England,1
+10000456,sagittis.Nullam.vitae,Clark Dixon,2010-11-21 08:31:26,USA,0
+10000457,Integer.urna.Vivamus,Zephania Washington,2010-09-06 10:39:33,USA,0
+10000458,eu.placerat,\N,2007-05-09 00:31:03,USA,1
+10000459,laoreet.lectus.quis,Zephr Ware,2009-11-04 23:26:28,USA,0
+10000460,velit,Dieter Beasley,2006-07-08 02:34:45,USA,0
+10000461,dolor.sit.amet,\N,2008-05-01 04:43:57,Canada,0
+10000462,turpis.nec,Adam Snider,2010-02-03 15:14:07,Mexico,0
+10000463,Cum,Whoopi Leblanc,2010-01-31 19:51:03,Canada,0
+10000464,tempor.erat.neque,\N,2008-11-10 20:14:24,USA,0
+10000465,faucibus.lectus.a,\N,2011-08-27 19:33:44,Canada,0
+10000466,sem.semper.erat,\N,2006-09-11 09:00:49,USA,0
+10000467,rhoncus,Jada Shields,2011-03-07 06:43:35,USA,0
+10000468,litora.torquent.per,\N,2008-07-09 08:14:51,USA,1
+10000469,in.tempus.eu,\N,2006-04-05 20:30:19,USA,0
+10000470,amet.faucibus.ut,Olivia Carver,2008-03-07 13:34:52,USA,0
+10000471,Donec.fringilla,\N,2008-05-18 08:55:13,Canada,0
+10000472,nec.quam.Curabitur,\N,2011-04-12 21:17:43,USA,0
+10000473,nunc.id.enim,\N,2009-06-08 21:01:19,Mexico,0
+10000474,lorem.ipsum,Finn Shaw,2010-03-10 22:20:14,USA,0
+10000475,nascetur.ridiculus.mus,Harding Porter,2008-01-27 07:31:12,USA,1
+10000476,gravida.sit,Prescott Stevens,2007-02-01 05:48:26,USA,0
+10000477,purus.Duis,Maxine Padilla,2006-11-18 14:07:18,USA,0
+10000478,in.aliquet,Lionel Underwood,2006-09-05 12:19:46,USA,0
+10000479,metus.vitae,\N,2006-03-26 22:26:58,USA,1
+10000480,eu.accumsan.sed,Grace Washington,2008-11-25 16:39:45,USA,0
+10000481,Phasellus,\N,2006-06-09 12:02:00,England,0
+10000482,Phasellus,Robert Calderon,2010-12-06 02:51:12,USA,1
+10000483,nostra,\N,2009-09-03 07:49:22,USA,0
+10000484,malesuada,Audrey Richardson,2010-05-14 17:21:03,USA,0
+10000485,sed.dictum,Pascale Davenport,2006-04-20 07:04:17,USA,0
+10000486,risus,\N,2011-08-19 18:18:36,USA,0
+10000487,Nunc.mauris,Lavinia Fischer,2006-10-08 11:33:14,Mexico,1
+10000488,eget.dictum.placerat,Leilani Barr,2007-12-05 03:20:15,USA,0
+10000489,risus,Baker Kaufman,2010-04-30 07:07:04,USA,0
+10000490,Curae.Phasellus,\N,2007-01-06 01:32:43,USA,1
+10000491,eu.tellus,\N,2006-12-29 15:27:00,USA,0
+10000492,commodo.auctor.velit,Doris Conway,2011-01-11 07:48:09,USA,0
+10000493,In.mi.pede,\N,2008-11-16 06:24:01,USA,0
+10000494,ipsum.Suspendisse.non,Kimberley Malone,2010-05-10 11:02:17,USA,0
+10000495,odio,\N,2006-10-20 12:51:04,USA,1
+10000496,Nullam.scelerisque.neque,MacKensie Heath,2009-02-18 09:16:50,USA,0
+10000497,blandit,Lael Irwin,2008-05-08 06:14:50,USA,1
+10000498,lobortis,Chava Lucas,2007-02-23 04:08:16,USA,0
+10000499,ut.dolor.dapibus,Charlotte Holder,2010-11-23 00:07:20,USA,0
+10000500,neque.et,Joan Cobb,2009-11-17 22:11:43,USA,0
+10000501,diam,Justine Key,2007-09-20 22:30:24,England,0
+10000502,dignissim,Heidi Bonner,2011-07-30 12:04:57,France,0
+10000503,ac.mi.eleifend,Vladimir Terry,2009-06-25 00:35:13,USA,1
+10000504,faucibus,\N,2007-07-25 14:16:11,USA,0
+10000505,consectetuer,Molly Burnett,2010-06-23 14:52:43,USA,0
+10000506,sapien.Nunc,Acton Barlow,2007-08-29 08:00:51,USA,0
+10000507,vulputate,Nell Orr,2011-09-27 12:43:41,USA,1
+10000508,Donec.non,Malcolm Wooten,2007-02-15 22:37:02,USA,0
+10000509,ligula.Aenean.gravida,\N,2011-06-27 13:15:09,USA,1
+10000510,ridiculus.mus,Lacy Guy,2009-01-15 02:34:56,USA,0
+10000511,cursus,\N,2007-04-09 00:36:47,USA,0
+10000512,cursus.a,Neil Hopper,2010-05-25 14:12:34,USA,0
+10000513,aliquam,Gannon Ortiz,2009-06-02 12:55:02,Mexico,1
+10000514,Sed.congue,Xantha Adams,2009-03-10 04:21:25,USA,1
+10000515,dolor.dolor,Xavier Dodson,2009-11-06 00:50:58,USA,0
+10000516,Lorem.ipsum,Oliver Moody,2006-05-19 01:20:38,USA,0
+10000517,Curabitur.ut,\N,2011-12-14 14:17:27,USA,0
+10000518,sed,\N,2006-08-28 19:41:25,Mexico,0
+10000519,eget.massa.Suspendisse,Maggie Kline,2010-01-23 16:16:08,Canada,0
+10000520,dolor.Quisque.tincidunt,\N,2006-08-09 22:16:57,USA,0
+10000521,ipsum,Jana Ferguson,2011-02-12 01:35:20,USA,0
+10000522,vitae.aliquam.eros,\N,2008-05-18 18:37:26,USA,0
+10000523,facilisis,Angela Castro,2008-03-20 16:19:49,Germany,0
+10000524,eu,\N,2008-09-11 07:46:52,USA,0
+10000525,imperdiet.nec,\N,2009-03-11 19:26:47,Mexico,0
+10000526,egestas.Fusce,Slade Flynn,2011-02-02 06:37:58,USA,0
+10000527,montes.nascetur.ridiculus,Julian Whitney,2010-07-02 12:53:04,Mexico,1
+10000528,turpis,Karly Kim,2006-10-02 15:57:21,USA,0
+10000529,non.sapien.molestie,Xaviera Cabrera,2008-11-04 11:23:05,USA,1
+10000530,massa.Quisque,Nell Bray,2011-04-03 09:58:16,USA,0
+10000531,dui.Cum,\N,2008-04-04 02:48:44,Canada,1
+10000532,Suspendisse.commodo.tinci,\N,2009-02-13 11:35:20,USA,0
+10000533,magna.Praesent,Brennan Dalton,2007-11-25 15:35:17,USA,1
+10000534,euismod.enim,Brandon Gardner,2011-08-31 17:56:19,England,1
+10000535,Quisque,Delilah Humphrey,2008-04-21 06:42:48,USA,0
+10000536,luctus.et,\N,2007-01-10 16:47:29,USA,0
+10000537,Aliquam,Coby Barker,2009-04-13 22:34:53,USA,0
+10000538,a,\N,2010-12-12 01:42:02,England,0
+10000539,In.nec,Courtney Castillo,2009-12-19 05:42:03,USA,1
+10000540,porttitor.scelerisque.neq,\N,2008-08-09 01:37:15,Mexico,0
+10000541,accumsan.neque,\N,2009-04-09 03:45:17,USA,0
+10000542,hendrerit.consectetuer,Emmanuel Fuentes,2010-05-22 16:27:39,France,0
+10000543,urna,\N,2009-11-01 01:03:54,Mexico,0
+10000544,posuere.enim.nisl,James Anderson,2007-04-14 00:03:20,USA,0
+10000545,molestie.orci.tincidunt,Cailin Mendez,2010-10-21 22:17:47,USA,1
+10000546,Proin,Giacomo Holmes,2008-01-29 16:36:45,Canada,1
+10000547,Integer,\N,2010-12-02 10:14:11,USA,0
+10000548,nibh,Hop Cameron,2008-04-27 20:32:54,England,0
+10000549,at.sem.molestie,Cheyenne Wells,2010-12-09 11:49:21,USA,0
+10000550,et.libero,Deborah Sanchez,2010-03-10 22:05:47,USA,0
+10000551,massa.non,Rebecca Cameron,2008-05-23 09:08:09,France,0
+10000552,augue.porttitor,Jasper Black,2010-02-27 14:16:43,USA,0
+10000553,et.netus.et,Zia Davidson,2007-07-02 18:27:08,USA,1
+10000554,ipsum.Suspendisse,\N,2011-11-12 16:43:14,France,0
+10000555,lacus.varius.et,Nicole Forbes,2007-12-16 12:13:50,Germany,0
+10000556,Curae.Donec.tincidunt,James Diaz,2007-05-07 01:06:17,USA,0
+10000557,augue,Gray Chambers,2010-03-19 03:45:49,USA,0
+10000558,dolor.egestas.rhoncus,Demetrius Andrews,2008-06-15 14:01:56,USA,1
+10000559,mauris,Ferris Ramos,2006-06-16 04:43:35,USA,0
+10000560,consequat,Acton Carpenter,2007-01-22 02:29:09,Canada,0
+10000561,Fusce.mi.lorem,\N,2008-08-19 22:10:30,USA,0
+10000562,risus,Gavin Holt,2007-05-09 22:22:36,USA,0
+10000563,diam.lorem.auctor,Clarke Mendez,2009-11-25 12:43:46,England,0
+10000564,et,\N,2009-03-13 00:51:43,USA,0
+10000565,non.cursus.non,Rahim Terrell,2007-04-01 15:07:22,USA,0
+10000566,nascetur.ridiculus,\N,2008-11-20 13:54:19,Canada,0
+10000567,commodo,Fredericka Ray,2007-12-14 12:17:35,Mexico,0
+10000568,Cras.sed,\N,2006-09-12 22:38:30,USA,0
+10000569,et.tristique.pellentesque,Harriet Lane,2011-09-01 18:08:01,USA,0
+10000570,mollis.Integer.tincidunt,Penelope Morris,2011-03-10 06:11:34,USA,0
+10000571,enim.non,\N,2008-02-15 15:42:38,USA,0
+10000572,dui.Fusce.aliquam,Lewis Mcdaniel,2006-03-23 14:35:41,Germany,0
+10000573,auctor,Allen Conrad,2011-12-31 19:21:14,Mexico,0
+10000574,ornare.egestas,\N,2006-07-30 16:14:53,USA,0
+10000575,eu.enim.Etiam,Charles Tyler,2006-12-16 05:53:42,France,0
+10000576,eleifend.Cras,\N,2008-10-13 01:49:22,USA,1
+10000577,bibendum.Donec,Liberty Meyers,2008-02-11 15:43:14,USA,0
+10000578,orci.Phasellus.dapibus,\N,2007-06-22 05:19:27,USA,0
+10000579,pede.malesuada,\N,2008-05-14 21:25:26,Canada,0
+10000580,nec,\N,2009-10-20 07:39:15,Mexico,1
+10000581,leo.Morbi.neque,\N,2009-03-26 22:26:31,France,0
+10000582,eget,Kirestin Brock,2009-08-06 18:50:36,Mexico,0
+10000583,Donec,Lionel Blevins,2006-02-25 22:59:21,USA,0
+10000584,nisl.Quisque,Hilda Carter,2006-10-18 21:22:08,USA,1
+10000585,euismod.est,\N,2009-06-21 11:12:10,Mexico,0
+10000586,quis.pede,\N,2007-01-20 02:18:27,USA,0
+10000587,mi.felis,Medge Waller,2009-07-01 17:38:15,USA,0
+10000588,non,Arsenio Ray,2007-03-09 20:25:40,USA,0
+10000589,leo.elementum,\N,2009-03-18 17:55:43,Germany,0
+10000590,cursus,Kibo Morris,2010-01-13 05:10:56,USA,1
+10000591,sit,\N,2010-01-02 23:01:23,USA,0
+10000592,Ut,Henry Silva,2008-06-16 10:35:08,USA,1
+10000593,commodo.ipsum.Suspendisse,Alexandra Mccullough,2010-01-23 07:50:11,USA,0
+10000594,auctor.vitae.aliquet,\N,2007-04-13 16:28:51,USA,1
+10000595,condimentum,Dorian Boyer,2009-06-05 12:57:09,Germany,0
+10000596,ipsum.non.arcu,\N,2006-02-13 19:02:34,USA,0
+10000597,interdum,Cameran Acosta,2006-03-20 12:37:15,USA,1
+10000598,vitae.nibh.Donec,Tanisha Bradley,2007-02-01 03:54:41,USA,0
+10000599,vestibulum.massa,Chase Abbott,2010-10-18 15:23:56,USA,1
+10000600,massa,Brendan Sandoval,2006-12-31 00:00:46,USA,0
+10000601,nec,Dylan Payne,2009-12-06 06:38:15,USA,0
+10000602,aliquam.arcu.Aliquam,Giacomo Langley,2008-01-02 17:34:33,USA,0
+10000603,consectetuer.rhoncus,Laith Bartlett,2007-05-06 22:24:07,USA,0
+10000604,Praesent,\N,2011-02-22 22:38:54,USA,0
+10000605,dictum,Ivor Mcleod,2009-01-30 18:00:42,USA,0
+10000606,vel.lectus,Laurel Cobb,2011-11-30 06:36:35,USA,1
+10000607,enim.Etiam.gravida,Tatum Huber,2007-12-30 01:15:01,Mexico,0
+10000608,tempor,Kalia Gill,2011-03-02 01:32:24,USA,0
+10000609,tellus.id.nunc,Austin Weaver,2007-04-09 03:35:36,Canada,0
+10000610,hendrerit.id.ante,Amena Hensley,2007-02-20 18:52:26,USA,1
+10000611,fermentum,\N,2011-04-23 11:58:57,USA,0
+10000612,magna,\N,2008-05-08 19:34:15,USA,0
+10000613,sodales.purus,Andrew Rasmussen,2010-08-02 11:32:16,Mexico,0
+10000614,pharetra.felis.eget,\N,2009-01-30 06:03:18,USA,1
+10000615,ac.libero,Kay Roberson,2011-12-12 17:45:43,USA,0
+10000616,libero,Eleanor Saunders,2008-12-21 05:01:58,France,0
+10000617,egestas.a,Yuri Huff,2011-05-24 18:22:03,USA,0
+10000618,Donec.feugiat,Richard Gillespie,2006-08-08 03:51:53,USA,1
+10000619,per.conubia.nostra,\N,2008-05-18 15:29:47,USA,0
+10000620,Aenean,Halee Maynard,2009-07-18 16:27:47,USA,0
+10000621,nascetur.ridiculus.mus,\N,2009-01-12 04:07:37,Canada,0
+10000622,In.ornare.sagittis,Erasmus Molina,2008-10-15 11:35:46,USA,1
+10000623,vehicula.Pellentesque.tin,Kameko Santana,2011-06-10 13:09:23,USA,0
+10000624,et.ipsum.cursus,\N,2010-06-21 23:59:04,Mexico,1
+10000625,eget.mollis.lectus,\N,2006-01-26 21:15:03,USA,1
+10000626,magnis.dis,Quinlan Green,2008-06-27 16:14:11,USA,1
+10000627,non,\N,2007-08-13 03:10:16,USA,1
+10000628,molestie,\N,2011-11-28 08:29:46,USA,0
+10000629,dui,Sacha Hendricks,2011-08-14 04:08:42,USA,0
+10000630,lorem.semper.auctor,Dale Nichols,2007-12-20 08:23:47,USA,0
+10000631,aliquet.Proin.velit,Madeline Lester,2007-07-24 05:57:42,USA,0
+10000632,turpis.Aliquam.adipiscing,Cody Cannon,2008-09-08 12:52:58,USA,0
+10000633,Proin.non,Chester Burks,2010-10-13 18:07:59,USA,0
+10000634,ac.tellus.Suspendisse,Nigel Finley,2006-06-19 03:12:38,USA,0
+10000635,dolor.elit,\N,2006-08-12 04:59:02,Mexico,0
+10000636,Nunc.ullamcorper.velit,\N,2008-02-06 15:57:46,USA,1
+10000637,gravida.molestie.arcu,Harriet Whitney,2007-04-14 02:56:50,USA,0
+10000638,lorem.eget,Anjolie Gay,2009-07-21 21:41:56,USA,1
+10000639,vestibulum,Amos Bruce,2010-06-23 18:34:01,USA,0
+10000640,Mauris.non,Damian Cantrell,2009-07-15 08:25:47,England,1
+10000641,quis.lectus,\N,2007-07-20 23:10:31,USA,1
+10000642,magna,Ezra Burton,2010-08-10 07:31:52,USA,0
+10000643,quis.diam.luctus,Colton Petty,2010-03-17 10:30:32,USA,0
+10000644,laoreet.ipsum,\N,2007-10-24 06:20:35,USA,1
+10000645,montes.nascetur.ridiculus,Rhea Nicholson,2006-10-24 15:05:55,Mexico,0
+10000646,scelerisque,Desiree Matthews,2011-05-19 14:44:13,USA,0
+10000647,primis.in.faucibus,Florence Zamora,2009-04-23 18:56:38,USA,0
+10000648,purus,\N,2010-10-03 22:09:20,USA,0
+10000649,Phasellus,Mary Welch,2011-11-18 19:24:04,France,1
+10000650,posuere.cubilia.Curae,\N,2008-06-12 07:52:22,USA,0
+10000651,ridiculus.mus,Dennis Acosta,2009-04-24 18:53:59,USA,1
+10000652,Nunc,Harlan Cole,2008-12-14 21:35:18,USA,0
+10000653,litora.torquent,Tatiana Shannon,2010-10-05 01:20:18,USA,0
+10000654,massa.non,\N,2006-07-29 20:17:42,USA,0
+10000655,egestas.Aliquam.fringilla,\N,2010-08-08 15:12:47,USA,0
+10000656,ut.nisi.a,\N,2006-12-07 17:24:33,USA,0
+10000657,metus.urna,Imelda Bruce,2009-05-03 21:57:53,USA,1
+10000658,tincidunt,Pearl Griffith,2006-03-23 02:59:37,USA,0
+10000659,viverra.Donec,Timon Mitchell,2009-07-24 03:55:48,USA,0
+10000660,Sed.id,Judith Booker,2006-09-04 04:36:22,Canada,1
+10000661,ullamcorper,\N,2006-01-12 23:45:50,USA,1
+10000662,amet.metus,Hammett Greer,2011-11-29 09:06:33,Germany,0
+10000663,pede.ac.urna,\N,2006-07-19 20:41:38,USA,1
+10000664,vulputate,\N,2006-05-03 10:30:08,USA,1
+10000665,Mauris.vel.turpis,Kevyn Williamson,2010-11-12 09:13:30,USA,1
+10000666,montes.nascetur,\N,2010-12-17 01:25:56,USA,1
+10000667,consectetuer.euismod.est,\N,2010-11-17 11:33:50,Mexico,1
+10000668,accumsan,\N,2009-05-03 14:40:14,USA,0
+10000669,scelerisque,Ashton Johnson,2007-06-08 12:00:01,USA,1
+10000670,risus.Donec,\N,2011-12-21 11:41:08,England,1
+10000671,Sed.dictum.Proin,Kadeem Tillman,2009-10-03 03:46:33,USA,1
+10000672,magnis.dis,Callum Bradley,2007-02-24 04:57:06,USA,0
+10000673,purus.Nullam.scelerisque,Leslie Rhodes,2009-09-08 17:49:41,Mexico,0
+10000674,a,Mollie Hudson,2009-01-02 12:48:58,USA,0
+10000675,Integer.in.magna,Graham Hart,2007-11-01 18:17:43,USA,1
+10000676,lobortis.tellus.justo,Alika Glass,2011-11-06 20:15:35,USA,1
+10000677,Proin.vel,\N,2009-10-14 03:05:49,USA,0
+10000678,Nam.tempor,Hadley Kidd,2011-01-20 02:45:57,USA,0
+10000679,orci,\N,2006-01-04 10:03:10,USA,1
+10000680,nibh.lacinia,Reece Conway,2007-12-12 20:11:22,USA,0
+10000681,sit.amet,Laith Mccullough,2008-07-02 22:23:18,USA,0
+10000682,dapibus.id.blandit,Regina Barr,2010-08-21 06:16:33,USA,0
+10000683,ultrices,Courtney Porter,2009-05-08 08:53:45,USA,0
+10000684,Proin.vel.arcu,\N,2009-05-15 13:54:39,USA,1
+10000685,ac.mattis,Julian Myers,2007-11-17 09:44:07,USA,0
+10000686,amet,Sylvester Meyer,2010-01-14 22:16:47,USA,0
+10000687,Suspendisse,\N,2008-10-08 04:43:06,USA,0
+10000688,sociosqu.ad.litora,Libby Webster,2008-10-01 05:28:32,USA,0
+10000689,ridiculus.mus.Proin,\N,2006-08-02 21:08:03,USA,1
+10000690,arcu,Christopher Gallagher,2010-11-16 05:13:45,USA,0
+10000691,risus,\N,2008-11-24 09:11:20,France,0
+10000692,nec.tempus,\N,2006-09-27 22:48:11,USA,1
+10000693,mi.ac.mattis,\N,2009-08-04 19:19:46,USA,0
+10000694,luctus.felis,Abel Camacho,2011-06-02 21:05:55,England,0
+10000695,lacus.varius.et,Hayes Bray,2009-05-29 15:56:17,USA,0
+10000696,Aenean,\N,2008-07-29 13:23:53,USA,1
+10000697,non,\N,2007-05-06 04:30:41,USA,0
+10000698,eros.Proin.ultrices,Phoebe Rocha,2011-02-25 00:49:34,Canada,1
+10000699,et,\N,2010-11-08 20:24:52,USA,1
+10000700,pharetra.ut.pharetra,Adrian Blanchard,2008-12-25 06:51:45,USA,1
+10000701,lectus.convallis,Ferris Summers,2007-07-27 21:21:09,France,0
+10000702,arcu.Vestibulum,Sean Mercer,2011-12-14 21:11:21,USA,1
+10000703,id.ante.Nunc,\N,2008-08-18 07:17:55,England,0
+10000704,magna,\N,2011-12-07 07:34:33,USA,0
+10000705,tortor.at.risus,\N,2006-03-25 06:56:09,USA,0
+10000706,lacus.Quisque.purus,Gil Oneill,2009-04-13 20:42:39,Mexico,1
+10000707,Nullam,Brenda Mcconnell,2006-06-11 12:48:04,Canada,0
+10000708,elit.elit.fermentum,Jonas Noel,2007-01-02 22:19:41,USA,0
+10000709,a.mi,\N,2011-03-05 03:11:31,USA,0
+10000710,at.risus.Nunc,Wilma Meyers,2011-07-14 05:42:36,USA,0
+10000711,id.blandit.at,\N,2006-03-10 01:06:17,USA,1
+10000712,ipsum,Venus Puckett,2007-03-21 23:44:15,USA,1
+10000713,neque.Morbi,\N,2011-07-03 03:19:50,USA,1
+10000714,tempor.erat.neque,Neville Mack,2008-08-08 04:31:47,USA,0
+10000715,Nunc.mauris,Jakeem Drake,2007-10-21 04:14:36,USA,1
+10000716,sed.hendrerit.a,\N,2009-05-22 07:43:39,USA,0
+10000717,fermentum,\N,2011-08-23 21:38:53,USA,1
+10000718,euismod.ac,\N,2009-05-11 15:19:50,USA,1
+10000719,Curabitur,Nash Ellis,2011-07-30 10:15:04,Mexico,0
+10000720,at.iaculis.quis,Maya Dawson,2009-03-25 01:10:10,USA,0
+10000721,scelerisque,\N,2009-10-15 14:25:31,Canada,0
+10000722,adipiscing.fringilla.port,Sydney Frost,2007-08-18 22:21:35,USA,0
+10000723,ante.Nunc.mauris,Rashad Wilder,2008-12-02 03:05:50,USA,0
+10000724,nunc,Libby Parker,2009-11-04 18:29:11,USA,0
+10000725,pellentesque,Yuli Walsh,2007-12-25 22:53:15,Canada,0
+10000726,natoque.penatibus.et,Boris Moreno,2009-01-04 11:21:49,USA,1
+10000727,in,Adria Byers,2011-03-24 01:55:52,USA,1
+10000728,eu.dolor,\N,2007-06-30 16:19:17,USA,0
+10000729,erat.volutpat.Nulla,Melissa Lawrence,2006-05-15 12:49:59,France,1
+10000730,nulla.Integer,\N,2006-11-25 02:58:50,Mexico,1
+10000731,mus.Aenean,\N,2009-12-31 14:08:12,USA,1
+10000732,enim.Etiam,Sawyer Garrison,2007-10-12 01:09:52,USA,0
+10000733,Nam,\N,2010-04-08 15:20:10,USA,0
+10000734,velit.dui.semper,Ulric Sharp,2008-07-09 02:30:54,USA,1
+10000735,vitae.dolor,Lucian Holcomb,2009-10-26 23:53:38,USA,0
+10000736,per.conubia,Kirsten Crane,2006-11-26 10:53:10,USA,0
+10000737,nisi.magna,\N,2007-06-05 15:11:34,USA,0
+10000738,et,\N,2006-07-18 20:32:02,USA,0
+10000739,odio.auctor,Petra Carroll,2007-01-28 10:03:18,USA,0
+10000740,augue,\N,2008-08-07 16:23:32,USA,0
+10000741,imperdiet.dictum.magna,Basia Vasquez,2008-11-28 21:06:07,USA,1
+10000742,lorem,Gisela Hays,2010-06-14 19:32:52,Canada,0
+10000743,erat.in,\N,2007-12-24 06:26:32,Canada,0
+10000744,gravida.molestie.arcu,\N,2009-08-29 22:33:25,USA,0
+10000745,malesuada.vel,\N,2007-08-02 14:11:52,USA,0
+10000746,eros.nec,Rhona Hunter,2009-02-10 22:27:05,Germany,1
+10000747,adipiscing,Cecilia Schultz,2008-08-01 11:23:26,USA,0
+10000748,egestas.Sed.pharetra,\N,2011-01-28 01:17:58,USA,0
+10000749,egestas.rhoncus,Xyla Burns,2007-11-25 05:47:32,USA,1
+10000750,justo,Tiger Russell,2006-11-13 14:51:07,USA,0
+10000751,per.inceptos.hymenaeos,Wade Dorsey,2006-07-20 22:36:13,England,1
+10000752,quis.diam.Pellentesque,\N,2007-09-25 13:10:59,USA,0
+10000753,gravida.mauris.ut,Mannix Carr,2010-06-17 12:42:34,Germany,1
+10000754,lobortis.Class,Deanna Payne,2011-03-11 15:10:44,USA,0
+10000755,ante.blandit.viverra,Garrison Vaughan,2010-02-11 16:38:05,USA,1
+10000756,lorem.ipsum,\N,2010-02-21 18:17:25,USA,0
+10000757,vestibulum.nec,Camden Murray,2008-10-17 11:06:48,USA,0
+10000758,nunc.id.enim,\N,2009-09-11 16:28:41,USA,1
+10000759,velit,Sybil Mclean,2008-12-04 10:40:35,USA,0
+10000760,eget.magna.Suspendisse,Deanna Jacobs,2010-12-12 15:18:17,USA,0
+10000761,Curae.Phasellus.ornare,Beck Shaffer,2009-06-19 00:49:09,Germany,0
+10000762,malesuada.Integer.id,\N,2009-10-30 17:40:04,USA,1
+10000763,scelerisque,Yoko Bond,2010-06-04 01:36:35,USA,0
+10000764,feugiat.metus.sit,\N,2010-07-04 01:27:10,England,0
+10000765,sociis,Virginia Edwards,2006-07-11 16:22:48,Germany,0
+10000766,Duis,\N,2006-02-28 03:00:32,USA,0
+10000767,at,\N,2011-05-08 16:02:14,USA,0
+10000768,lectus.a,\N,2011-02-27 04:11:04,USA,0
+10000769,parturient.montes,Demetrius Owens,2006-05-20 23:42:07,USA,1
+10000770,dolor.Fusce,Neil Graham,2010-04-13 21:41:11,England,1
+10000771,ultrices,Justine Williamson,2006-08-05 03:02:53,USA,0
+10000772,lobortis,\N,2009-09-27 11:57:57,USA,0
+10000773,gravida.Aliquam,Matthew Knapp,2009-09-01 07:47:15,USA,1
+10000774,enim.Mauris,Uriah Mcknight,2006-07-25 21:16:06,USA,0
+10000775,Nulla,Martin Mack,2008-03-08 02:57:08,Germany,0
+10000776,nisi.Aenean,Keely Craig,2009-07-01 10:16:50,USA,0
+10000777,nec,Jane Richards,2010-12-25 08:33:33,USA,1
+10000778,eleifend.nec.malesuada,Upton Berger,2010-02-09 12:31:30,USA,0
+10000779,magna.a.tortor,Rana Herman,2007-04-03 18:55:26,USA,0
+10000780,Vivamus.rhoncus,\N,2007-12-10 18:36:57,USA,0
+10000781,imperdiet,\N,2009-06-15 23:02:45,USA,0
+10000782,dui.quis,Stephanie Barnes,2010-02-11 04:12:48,USA,0
+10000783,nisl,Iliana Valencia,2008-05-16 01:48:43,Mexico,1
+10000784,Cras,\N,2011-10-23 12:40:11,USA,0
+10000785,adipiscing.ligula,\N,2010-10-24 21:19:58,USA,0
+10000786,dolor.elit.pellentesque,\N,2007-11-14 13:52:26,USA,0
+10000787,Aenean,Quynn Bird,2008-11-13 13:16:39,USA,1
+10000788,mauris.erat,Brielle Hart,2010-04-25 13:35:17,Mexico,0
+10000789,libero.mauris.aliquam,\N,2006-12-26 17:20:16,USA,0
+10000790,sit,\N,2008-01-10 18:11:16,USA,0
+10000791,ultrices.a.auctor,Germane Fitzgerald,2010-02-15 02:16:40,USA,1
+10000792,vel.lectus,\N,2008-03-31 10:59:48,Germany,0
+10000793,est.arcu,\N,2009-02-24 05:32:59,Germany,0
+10000794,sollicitudin.a.malesuada,Ginger Rasmussen,2008-03-03 10:06:29,USA,0
+10000795,vulputate.eu.odio,Keefe Terrell,2007-10-25 02:04:26,USA,0
+10000796,diam.at.pretium,Ray Ruiz,2006-07-22 13:12:28,England,0
+10000797,tellus.justo,\N,2006-07-19 13:51:03,Mexico,0
+10000798,placerat.augue.Sed,Alana Huber,2009-06-20 21:44:22,USA,0
+10000799,neque,Xyla Riddle,2006-12-23 06:00:55,USA,1
+10000800,et,Melanie Fisher,2009-05-05 09:49:38,USA,1
+10000801,Praesent.eu.dui,Tasha Cooper,2006-11-13 06:49:22,USA,0
+10000802,urna.Ut.tincidunt,Damon Franks,2011-08-26 21:24:16,USA,1
+10000803,Nulla.eu.neque,Carly Acevedo,2008-06-09 04:45:58,USA,0
+10000804,at.velit.Pellentesque,Ciaran Fitzpatrick,2009-01-19 03:17:32,USA,0
+10000805,dis.parturient.montes,\N,2007-02-02 23:02:01,USA,0
+10000806,penatibus,Galena Frank,2009-05-11 12:11:13,Germany,0
+10000807,eu,\N,2008-04-10 03:00:42,USA,0
+10000808,enim,\N,2008-09-11 03:24:49,USA,0
+10000809,mauris.eu,\N,2009-04-24 11:49:35,USA,0
+10000810,quam.Curabitur,Patrick Hansen,2006-12-19 05:06:35,USA,0
+10000811,massa.Integer.vitae,Delilah Walters,2009-09-23 10:54:02,Canada,1
+10000812,vel,Dana Day,2008-10-26 12:59:33,Canada,0
+10000813,ornare.elit,Kieran Santiago,2008-10-21 15:52:23,USA,0
+10000814,tempor.erat,\N,2011-07-28 02:46:10,USA,0
+10000815,nonummy,Elliott Olson,2011-08-04 15:54:11,USA,0
+10000816,sapien.cursus,Cynthia Saunders,2008-05-01 11:26:10,USA,0
+10000817,adipiscing.enim.mi,\N,2008-01-05 05:42:56,USA,0
+10000818,fermentum.metus.Aenean,\N,2009-04-20 14:27:25,England,0
+10000819,vitae,Kevyn Dawson,2006-12-07 21:25:43,USA,0
+10000820,lorem.sit.amet,Dorothy Leon,2011-10-26 01:20:10,Mexico,1
+10000821,Integer.vulputate.risus,\N,2007-10-27 16:17:00,USA,0
+10000822,quis,\N,2007-04-03 16:00:26,USA,0
+10000823,molestie,Petra Mitchell,2007-10-25 16:15:34,Mexico,0
+10000824,Mauris.non,Reagan Hoffman,2008-04-27 21:49:55,France,0
+10000825,accumsan.convallis.ante,\N,2006-09-12 23:50:20,USA,0
+10000826,faucibus,\N,2011-12-29 14:43:42,USA,0
+10000827,ac,Buckminster Hebert,2010-01-26 02:30:44,USA,0
+10000828,Mauris,\N,2010-12-28 17:49:23,USA,0
+10000829,sit.amet,Akeem Bird,2010-06-06 01:54:11,England,0
+10000830,Vestibulum.accumsan.neque,\N,2006-07-02 06:07:09,USA,0
+10000831,dignissim,Malcolm Nelson,2010-05-27 13:38:10,England,0
+10000832,sem.semper.erat,Devin Sandoval,2010-12-30 23:39:06,USA,0
+10000833,penatibus,Brynne Witt,2008-10-31 23:53:32,USA,1
+10000834,laoreet.posuere,Darrel Trujillo,2007-04-13 15:01:42,USA,0
+10000835,at,Wilma Horn,2009-02-08 08:08:40,USA,1
+10000836,sem,Cedric Molina,2011-06-03 02:16:42,USA,0
+10000837,mauris.elit.dictum,\N,2007-06-18 21:57:06,USA,1
+10000838,ac.tellus.Suspendisse,\N,2006-07-17 00:37:49,USA,0
+10000839,cursus.et,Xantha Contreras,2010-05-07 12:43:57,USA,0
+10000840,sit.amet.consectetuer,\N,2006-10-11 12:00:28,USA,1
+10000841,lacus,\N,2010-06-30 03:24:14,USA,1
+10000842,sem,Walter Riley,2006-03-05 22:32:52,USA,0
+10000843,pede.Cum,\N,2009-06-16 00:09:11,USA,0
+10000844,mauris.Morbi,Ivory Randall,2011-07-24 13:19:37,USA,0
+10000845,facilisis,\N,2007-12-02 13:41:54,Mexico,0
+10000846,eu.accumsan.sed,\N,2010-03-11 22:15:06,USA,1
+10000847,non,\N,2011-10-17 01:15:00,USA,1
+10000848,at,Ahmed Beasley,2006-09-02 01:14:07,Germany,0
+10000849,ac.mattis.velit,Laith Turner,2009-09-18 23:04:17,USA,0
+10000850,lectus.pede.ultrices,\N,2006-07-06 15:50:52,USA,1
+10000851,imperdiet.dictum,Kennan Duffy,2011-02-28 13:39:17,Mexico,0
+10000852,magnis.dis,Jamalia Stokes,2007-04-12 02:28:15,Germany,0
+10000853,fermentum,Xandra Aguirre,2011-07-02 02:56:15,USA,0
+10000854,sociis.natoque.penatibus,\N,2006-03-26 23:25:43,England,1
+10000855,elit.erat,Wilma Rivas,2009-01-16 12:58:03,USA,1
+10000856,Curabitur,Amela England,2007-11-08 07:15:10,Mexico,1
+10000857,elit.Nulla,Amelia Wade,2009-06-28 08:05:25,Mexico,0
+10000858,volutpat.ornare,Wylie Patton,2006-07-03 16:49:48,USA,0
+10000859,neque.vitae,Ursa Cotton,2010-01-28 03:00:39,USA,0
+10000860,tristique.senectus,Michael Roach,2006-03-23 15:05:03,USA,0
+10000861,ornare,Martena Padilla,2006-05-05 02:09:17,USA,0
+10000862,elementum.lorem,\N,2008-04-29 09:35:44,USA,1
+10000863,dignissim,\N,2007-10-06 14:07:16,USA,0
+10000864,et,\N,2007-11-12 02:12:59,USA,0
+10000865,rutrum.eu,\N,2007-03-05 10:46:33,USA,0
+10000866,tincidunt,Regina Ayers,2011-07-02 09:58:34,Canada,1
+10000867,per.inceptos.hymenaeos,\N,2006-04-08 18:53:41,Canada,0
+10000868,consequat.lectus,\N,2011-09-23 15:07:33,USA,0
+10000869,ornare,Idola Stephens,2010-05-10 00:13:33,USA,0
+10000870,ipsum.primis,\N,2009-01-29 06:12:50,Canada,0
+10000871,ut,\N,2008-02-02 02:23:13,USA,0
+10000872,vehicula,Maxwell Mcintosh,2009-09-18 05:37:06,Mexico,0
+10000873,elementum,Janna Mcintyre,2008-01-27 08:13:56,France,1
+10000874,condimentum,\N,2011-09-21 10:41:05,USA,0
+10000875,sit.amet,\N,2007-06-11 06:33:43,Canada,0
+10000876,Sed.eu,\N,2011-02-08 09:30:46,USA,1
+10000877,Suspendisse.eleifend.Cras,Shoshana Randolph,2007-12-20 02:32:11,USA,1
+10000878,auctor.nunc.nulla,\N,2006-10-04 08:36:02,USA,0
+10000879,augue.malesuada,Leandra Flowers,2007-10-06 01:07:38,Canada,1
+10000880,pede,\N,2007-05-11 11:14:46,USA,0
+10000881,enim.non.nisi,\N,2007-06-09 13:29:39,USA,0
+10000882,placerat.velit,Gary Benjamin,2008-10-05 07:09:54,England,0
+10000883,Nunc,\N,2007-07-07 07:28:23,USA,0
+10000884,Cras.eu,Meghan Reilly,2009-12-30 19:48:19,USA,1
+10000885,arcu.ac,\N,2008-11-02 08:05:20,USA,0
+10000886,fermentum,Portia Hill,2009-05-28 08:06:49,USA,0
+10000887,non,\N,2007-10-31 09:09:13,USA,0
+10000888,nulla.magna,\N,2007-05-11 16:59:23,USA,0
+10000889,pede,Walker Short,2010-03-22 14:30:31,Canada,0
+10000890,aliquet.magna,\N,2010-11-28 12:54:16,USA,0
+10000891,odio,\N,2008-05-06 19:15:05,Canada,1
+10000892,Nunc.lectus.pede,\N,2008-01-08 07:34:06,Canada,0
+10000893,Proin.velit.Sed,\N,2011-05-20 09:10:40,USA,0
+10000894,leo.elementum.sem,\N,2011-05-24 02:31:27,USA,0
+10000895,porta,Tasha Christensen,2010-02-24 23:59:59,Germany,1
+10000896,in.aliquet.lobortis,Josephine Weaver,2011-04-13 04:13:55,USA,0
+10000897,Morbi.vehicula.Pellentesq,Igor Franks,2010-03-18 11:51:36,USA,0
+10000898,pretium.et.rutrum,Tiger Mcfadden,2011-06-12 08:22:32,England,0
+10000899,Sed.id.risus,Avram Weber,2011-01-17 01:43:29,USA,0
+10000900,Aliquam.erat.volutpat,Damian Ferguson,2008-09-19 10:52:06,USA,1
+10000901,quam.elementum.at,Malachi Manning,2006-11-11 01:54:31,USA,1
+10000902,sem.magna.nec,Robin Shelton,2007-01-06 00:55:00,USA,0
+10000903,lectus,\N,2009-05-22 07:02:42,Mexico,0
+10000904,quis.pede,Miriam Stanton,2011-05-27 07:00:28,Germany,0
+10000905,molestie,Hunter Hess,2009-09-25 15:16:29,USA,0
+10000906,Nam.tempor.diam,Axel Dickson,2009-10-20 05:36:43,USA,0
+10000907,egestas.rhoncus.Proin,Jennifer Knowles,2010-10-07 00:31:31,USA,0
+10000908,mattis.velit.justo,\N,2007-08-19 16:51:56,England,1
+10000909,ligula.Nullam.enim,Kendall Griffith,2009-04-13 07:32:04,USA,1
+10000910,adipiscing.ligula.Aenean,\N,2008-12-24 11:11:39,USA,0
+10000911,porttitor.scelerisque.neq,\N,2008-04-29 04:46:14,USA,0
+10000912,Mauris.quis,Eleanor Montgomery,2011-12-28 12:02:58,USA,0
+10000913,malesuada.Integer,\N,2009-07-29 22:19:46,USA,0
+10000914,ridiculus.mus.Donec,\N,2007-11-18 09:07:47,USA,0
+10000915,massa,Price Wells,2007-10-19 09:31:14,USA,1
+10000916,non.sollicitudin,TaShya Bernard,2010-08-26 09:16:54,USA,0
+10000917,lorem,Blossom Ratliff,2009-05-16 15:53:59,USA,1
+10000918,In,\N,2011-07-20 06:15:57,USA,1
+10000919,ipsum,Fay Martin,2007-05-05 06:55:36,USA,0
+10000920,ultrices.posuere.cubilia,Moses Fry,2009-11-21 17:15:23,USA,0
+10000921,enim.Etiam,\N,2009-06-26 01:00:52,USA,0
+10000922,ornare.lectus,Alan Nelson,2007-01-08 03:12:01,Canada,1
+10000923,euismod.mauris,Briar Poole,2009-12-25 05:36:45,USA,0
+10000924,Aliquam,Jamal Ball,2008-02-07 21:24:37,USA,0
+10000925,sem.Nulla,Gregory Roy,2007-04-02 00:50:53,Canada,1
+10000926,tempor.augue.ac,Kevyn Michael,2008-04-15 12:21:50,USA,0
+10000927,lacus.Cras.interdum,Sydney Griffith,2011-09-17 18:20:51,USA,0
+10000928,Lorem.ipsum.dolor,Wyatt Yates,2010-02-06 19:21:01,USA,0
+10000929,risus.odio,Grant Mcneil,2008-11-17 21:01:07,USA,0
+10000930,risus.at,\N,2006-04-26 13:24:10,USA,0
+10000931,ut,Ali Lyons,2007-10-19 09:57:58,Germany,0
+10000932,amet.dapibus,Roary Leblanc,2010-07-25 21:39:31,USA,1
+10000933,ut,Chastity Harvey,2011-07-25 05:05:03,USA,0
+10000934,netus,\N,2007-12-19 13:25:32,USA,0
+10000935,non.vestibulum,Burke Watts,2009-12-27 01:04:47,USA,0
+10000936,ultrices.Vivamus.rhoncus,Rowan Hendrix,2008-10-26 07:52:46,USA,0
+10000937,vulputate.velit,Neil Allison,2010-06-06 21:55:04,USA,0
+10000938,placerat.Cras,\N,2009-09-05 00:02:29,USA,0
+10000939,rutrum.lorem,Bradley Herring,2010-10-19 10:03:55,USA,1
+10000940,orci.Donec.nibh,\N,2006-11-18 01:19:06,USA,0
+10000941,vitae,\N,2006-12-02 11:57:06,USA,0
+10000942,luctus.et.ultrices,\N,2007-08-12 06:32:55,USA,1
+10000943,hendrerit.Donec,Zoe Hart,2011-01-24 10:42:12,USA,0
+10000944,ornare.lectus,\N,2010-12-12 18:44:58,USA,0
+10000945,risus.Donec.egestas,Gray Richardson,2011-04-12 05:53:47,Germany,0
+10000946,euismod.ac,Mara Mcmahon,2010-04-12 11:19:27,USA,0
+10000947,Nullam.velit.dui,Joan Foreman,2010-05-12 10:17:33,USA,0
+10000948,id,Kylie Stein,2007-08-20 11:14:47,USA,0
+10000949,cursus.purus.Nullam,Aline Pickett,2011-09-27 05:50:55,USA,0
+10000950,convallis,Nissim Mckenzie,2008-12-03 11:01:19,USA,0
+10000951,Suspendisse.non.leo,Adria Mullins,2007-04-23 08:49:20,Mexico,0
+10000952,eros.turpis.non,\N,2007-06-28 06:03:42,USA,0
+10000953,arcu,Lydia Merritt,2006-10-02 10:13:09,USA,1
+10000954,tristique.pellentesque,Charity Bailey,2011-05-28 10:02:56,USA,0
+10000955,Integer.aliquam,Vivian Velasquez,2010-11-23 22:18:08,USA,1
+10000956,erat,Leslie Winters,2007-07-02 06:19:05,USA,0
+10000957,accumsan.interdum.libero,\N,2006-12-22 02:14:09,Mexico,0
+10000958,sit.amet,\N,2007-11-07 20:47:14,USA,1
+10000959,ad,\N,2011-12-20 00:20:19,USA,0
+10000960,semper.Nam,Wanda Curry,2009-01-27 09:07:15,USA,0
+10000961,sed,\N,2006-11-10 10:20:35,Canada,1
+10000962,Duis.volutpat.nunc,\N,2010-01-13 05:37:14,USA,0
+10000963,purus,\N,2008-07-29 00:33:47,USA,0
+10000964,ac,\N,2007-04-29 00:57:22,USA,0
+10000965,eu,\N,2009-10-07 17:54:45,USA,0
+10000966,risus.quis.diam,Karina Bruce,2006-05-30 03:59:16,USA,0
+10000967,mi.Duis,Olivia Romero,2007-05-09 03:12:39,Canada,0
+10000968,placerat.orci,\N,2008-01-15 19:19:13,Canada,0
+10000969,Nunc.mauris.Morbi,\N,2006-11-20 00:22:08,USA,0
+10000970,est,Perry Bender,2006-12-28 16:38:40,USA,0
+10000971,Mauris,Blossom Beach,2010-07-06 09:52:10,USA,1
+10000972,elit.Aliquam,Phoebe Dillard,2011-02-28 11:52:29,USA,1
+10000973,lacus.varius.et,Mufutau Nelson,2006-03-04 21:18:53,Canada,1
+10000974,tincidunt.tempus.risus,\N,2011-03-29 23:22:53,USA,0
+10000975,Donec,\N,2008-10-19 18:40:29,Canada,0
+10000976,enim.condimentum.eget,Derek Robertson,2009-11-03 02:03:41,USA,0
+10000977,ac.turpis,Emmanuel Stevens,2006-07-27 13:43:02,USA,0
+10000978,suscipit.est.ac,\N,2008-07-07 20:24:15,Mexico,1
+10000979,euismod.et.commodo,\N,2008-11-10 12:26:36,USA,0
+10000980,tellus.Nunc.lectus,Yuri Downs,2006-04-12 12:53:48,USA,0
+10000981,ac.fermentum,Libby Duncan,2008-03-07 19:20:25,USA,0
+10000982,facilisis.magna,\N,2011-10-18 04:31:45,USA,0
+10000983,pede,Baxter Holland,2007-06-04 18:06:58,USA,0
+10000984,aliquet.odio.Etiam,Mannix Torres,2007-01-24 18:11:14,Canada,1
+10000985,cubilia,Sonya Castro,2011-06-02 23:28:09,USA,0
+10000986,faucibus.Morbi,Aileen Orr,2011-08-01 13:10:40,Germany,0
+10000987,Donec.at.arcu,\N,2009-11-27 08:02:32,USA,0
+10000988,Proin.vel,Martena Rodriguez,2006-06-29 10:49:57,USA,0
+10000989,fringilla.ornare,Natalie Lindsey,2006-02-12 17:45:23,USA,1
+10000990,convallis.est,\N,2011-01-25 06:12:18,USA,1
+10000991,a.neque,Xanthus Beard,2007-12-04 13:30:25,Mexico,0
+10000992,enim.diam,\N,2010-05-06 18:46:22,Germany,0
+10000993,pellentesque.massa.lobort,Cruz Davenport,2009-07-21 02:26:10,USA,0
+10000994,eleifend,\N,2009-02-23 12:11:25,USA,0
+10000995,Integer.aliquam,Clementine Lang,2006-05-17 10:12:57,USA,0
+10000996,malesuada,Irma Pace,2011-10-13 13:53:17,France,0
+10000997,non,Flavia Mcclure,2011-11-26 11:46:09,Canada,1
+10000998,et,Alice Davis,2009-01-31 21:29:17,USA,0
+10000999,sapien.Nunc,Karina Reilly,2009-05-09 11:20:57,USA,1
+10001000,augue,\N,2006-01-03 14:54:47,USA,1

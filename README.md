@@ -64,3 +64,48 @@ Monday | Wednesday
 * [Another Intro to Pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb) (Written by Wes McKinney and is adapted from his book)
 	* [Here](https://vimeo.com/59324550) is a video of Wes McKinney going through his notebook!
 	
+	
+	
+	### Class 3: Pandas
+
+**Agenda**
+
+* Intro to Pandas walkthrough [here](code/03_pandas.py)
+	* I will give you semi-cleaned data allowing us to work on step 3 of the data science workflow
+	* Pandas is an excellent tool for exploratory data analysis
+	* It allows us to easily manipulate, graph, and visualize basic statistics and elements of our data
+	* [Pandas Lab!](code/03_pandas_lab.py)
+
+
+**Homework**
+
+* Begin thinking about potential projects that you'd want to work on. Consider the problems discussed in class today (we will see more next time and next Monday as well)
+	* Do you want a predictive model?
+	* Do you want to cluster similar objects (like words or other)?
+
+**Resources:**
+
+* Pandas
+	 * [Split-Apply-Combine](http://i.imgur.com/yjNkiwL.png) pattern
+    * Simple examples of [joins in Pandas](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/#joining)
+    * Check out this excellent example of [data wrangling and exploration in Pandas](http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb)
+	    * For an extra challenge, try copying over the code into your own .py file
+	* To learn more Pandas, review this [three-part tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+    * For more on Pandas plotting, read the [visualization page](http://pandas.pydata.org/pandas-docs/stable/visualization.html) from the official Pandas documentation.
+
+    
+    
+### Class 4 - More Pandas
+
+#### Agenda
+* Class code on Pandas [here](code/04_more_pandas.py)
+* We will work with 3 different data sets today:
+	* the UFO dataset (as scraped from the [reporting website](http://www.nuforc.org/webreports.html)	
+	* Fisher's Iris Dataset (as cleaned from a [machine learning repository](https://archive.ics.uci.edu/ml/datasets/Iris)
+	* A dataset of (nearly) every FIFA goal ever scored (as scraped from the website)
+* Pandas Lab! [here](code/04_more_pandas_lab.py)
+	
+	
+####Homework
+* Please review the [readme](hw/HW1-README.md) for the first homework. It is due NEXT Wednesday (9/30/2015)
+* The one-pager for your project is also due. Please see [project guidelines](project.md)
