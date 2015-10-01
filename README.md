@@ -141,3 +141,31 @@ Monday | Wednesday
 **Resources:**
 
 * For a more in-depth look at machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
+
+
+### Class 6: scikit-learn, Model Evaluation Procedures
+* Introduction to scikit-learn with iris data ([code](code/06_sklearn_knn.py))
+* Exploring the scikit-learn documentation: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+* Discuss the [article](http://scott.fortmann-roe.com/docs/BiasVariance.html) on the bias-variance tradeoff
+* Look as some [code](code/06_bias_variance.py) on the bias variace tradeoff
+	* To run this, I use a module called "seaborn" 
+	* To install to anywhere in your terminal (git bash) and type in `sudo pip install seaborn`
+* Model evaluation procedures ([slides](slides/06_model_evaluation_procedures.pdf), [code](code/06_model_evaluation_procedures.py))
+
+**Homework:**
+
+* Keep working on your project. Your [data exploration and analysis plan](project.md) is due in three weeks!
+
+**Optional:**
+
+* Practice what we learned in class today!
+    * If you have gathered your project data already: Try using KNN for classification, and then evaluate your model. Don't worry about using all of your features, just focus on getting the end-to-end process working in scikit-learn. (Even if your project is regression instead of classification, you can easily convert a regression problem into a classification problem by converting numerical ranges into categories.)
+    * If you don't yet have your project data: Pick a suitable dataset from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html), try using KNN for classification, and evaluate your model. The [Glass Identification Data Set](http://archive.ics.uci.edu/ml/datasets/Glass+Identification) is a good one to start with.
+    * Either way, you can submit your commented code to your SF_DAT_15_WORK, and we'll give you feedback.
+
+**Resources:**
+
+* Here's a great [30-second explanation of overfitting](http://www.quora.com/What-is-an-intuitive-explanation-of-overfitting/answer/Jessica-Su).
+* For more on today's topics, these videos from Hastie and Tibshirani are useful: [overfitting and train/test split](https://www.youtube.com/watch?v=_2ij6eaaSl0) (14 minutes), [cross-validation](https://www.youtube.com/watch?v=nZAM5OXrktY) (14 minutes). (Note that they use the terminology "validation set" instead of "test set".)
+    * Alternatively, read section 5.1 (12 pages) of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), which covers the same content as the videos.
+* This video from Caltech's machine learning course presents an [excellent, simple example of the bias-variance tradeoff](http://work.caltech.edu/library/081.html) (15 minutes) that may help you to visualize bias and variance.
