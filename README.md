@@ -197,7 +197,7 @@ Monday | Wednesday
 * An article on ["P Hacking"](http://www.dailydot.com/geek/data-manipulation-tool-science-p-hacking/) the idea that you can alter data in order to achieve good p values
 
 ### Class 8: Logistic Regression
-* Logistic regression ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/SF_DAT_17/blob/master/code/08_logistic_regression.ipynb), [notebook code](code/08_logistic_regression_nb.py))
+* Logistic regression ([notebook](https://github.com/sinanuozdemir/SF_DAT_17/blob/master/notebooks/08_logistic_regression.ipynb), [notebook code](code/08_logistic_regression_nb.py))
 * Confusion matrix ([slides](slides/08_confusion_matrix.pdf))
 * Exercise with Titanic data ([instructions](labs/08_titanic.md), [solution](labs/08_titanic_solutions.py))
 
