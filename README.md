@@ -213,3 +213,15 @@ Monday | Wednesday
 * The scikit-learn documentation has a nice [explanation](http://scikit-learn.org/stable/modules/calibration.html) of what it means for a predicted probability to be calibrated.
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html) is a very nice comparison of four classifiers we cover in the course (logistic regression, decision trees, KNN, Naive Bayes) and one classifier we do not cover (Support Vector Machines).
 * This [simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) may be useful to you as a reference.
+
+
+
+### Class 9: Working on a Data Problem
+* Today we will work on a real world data problem! We will have 3 options.
+
+* Option 1: (stocks) Use stock data from over 7 months of a fictional company ZYX including twitter sentiment, volume and stock price. Our goal is to create a predictive model that predicts forward returns. [data](data/ZYX_prices.csv) here
+	* Project overview ([slides](slides/09_GA_Stocks.pdf))
+	    * Be sure to read documentation thoroughly and ask questions! We may not have included all of the information you need...
+* Option 2: Using ingredients to predict the type of recipe (Kaggle)[https://www.kaggle.com/c/whats-cooking]
+* Option 3: San Francisco Crime Classification (Kaggle)[https://www.kaggle.com/c/sf-crime]
+
