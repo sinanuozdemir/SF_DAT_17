@@ -27,8 +27,8 @@ Monday | Wednesday
 11/2: Ensembling Techniques  | 11/4: Dimension Reduction<br>**Milestone:** Peer Review Due
 11/9 Support Vector Machines | 11/11: Web Development with Flask
 11/16: Recommendation Engines | 11/18: TBD
-11/24: TBD | 11/26: TBD
-11/31: Projects | 12/2: Projects
+11/23: TBD | 11/25: Turkey Day (NO CLASS)
+11/30: Projects | 12/2: Projects
 
 
 ### Installation and Setup
