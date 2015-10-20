@@ -237,7 +237,7 @@ Monday | Wednesday
 
 **Homework:**
 
-* **HW2 and Project Milestone 2 are due in one week!**
+* **Project Milestone 2 is due in one week!**
 * Download all of the NLTK collections.
    * In Python, use the following commands to bring up the download menu.
    * ```import nltk```
