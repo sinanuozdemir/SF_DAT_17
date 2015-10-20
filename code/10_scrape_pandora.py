@@ -2,13 +2,13 @@ import re
 import pandas as pd
 import requests
 # change this to your pandora screen name!
-screen_name = ''
+screen_name = 'sinan.u.ozdemir'
 #####
 
 
 set_list = set()
 stations = 	requests.get('http://pandorasongs.oliverzheng.com/username/'+screen_name).json()
-for station in stations['stations'][2:4]:
+for station in stations['stations']:
 	stationID = station['stationId']
 	print "on "+ station['stationName']
 	i = 0
