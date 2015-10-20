@@ -225,3 +225,32 @@ Monday | Wednesday
 * Option 2: Using ingredients to predict the type of recipe (Kaggle)[https://www.kaggle.com/c/whats-cooking]
 * Option 3: San Francisco Crime Classification (Kaggle)[https://www.kaggle.com/c/sf-crime]
 
+
+
+
+### Class 10: Clustering and Visualization
+* The [slides](slides/10_clustering.pdf) today will focus on our first look at unsupervised learning, K-Means Clustering!
+* The [code](code/10_kmeans_class_exercise.py) for today focuses on two main examples:
+    * We will investigate simple clustering using the iris data set.
+    * We will take a look at a harder example, using Pandora songs as data. See [data](data/songs.csv). See code [here](code/10_analyze_pandora.py)
+    * Checking out some of the limitations of K-Means Clutering [here](code/10_kmeans_limitations.py)
+
+**Homework:**
+
+* **HW2 and Project Milestone 2 are due in one week!**
+* Download all of the NLTK collections.
+   * In Python, use the following commands to bring up the download menu.
+   * ```import nltk```
+   * ```nltk.download()```
+   * Choose "all".
+   * Alternatively, just type ```nltk.download('all')```
+* Install two new packages:  ```textblob``` and ```lda```.
+   * Open a terminal or command prompt.
+   * Type ```pip install textblob``` and ```pip install lda```.
+   * 
+
+**Resources:**
+
+* [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php) has a nice [chapter on cluster analysis](http://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf).
+* The scikit-learn user guide has a nice [section on clustering](http://scikit-learn.org/stable/modules/clustering.html).
+
