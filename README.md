@@ -280,3 +280,25 @@ Monday | Wednesday
     * **Basics of probability:** These [introductory slides](https://docs.google.com/presentation/d/1cM2dVbJgTWMkHoVNmYlB9df6P2H8BrjaqAcZTaLe9dA/edit#slide=id.gfc3caad2_00) (from the [OpenIntro Statistics textbook](https://www.openintro.org/stat/textbook.php)) are quite good and include integrated quizzes. Pay specific attention to these terms: probability, sample space, mutually exclusive, independent.
 * You should definitely be working on your project! First draft is due Monday!!
 
+
+
+
+##Class 12: Naive Bayes Classifier
+
+Today we are going over advanced metrics for classification models and learning a brand new classification model called naive bayes!
+
+**Agenda**
+
+* Learn about ROC/AUC curves 
+	* 	Slides [here](slides/12_classification_model_evaluation_metrics.pdf)
+	* 	Code [here](code/12_confusion_roc.py)
+* Learn the Naive Bayes Classifier 
+	* 	Slides [here](slides/12_naive_bayes.pdf)
+	* 	Code [here](code/12_naive_bayes.py)
+	* In the code file above we will create our own spam classifier!
+
+
+**Resources**
+
+* Video on [ROC Curves](https://www.youtube.com/watch?v=21Igj5Pr6u4&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (12 minutes).
+* My buddy's [blog post about the ROC video](http://www.dataschool.io/roc-curves-and-auc-explained/) includes the complete transcript and screenshots, in case you learn better by reading instead of watching.
