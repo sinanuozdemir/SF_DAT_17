@@ -102,17 +102,38 @@ np.sum(arr, axis=1)
 
 # exercise: calculate the number of tokens in the
 # 0th message in train_arr
+
+
+
+
+
+
+
+
 X_train[0]
 sum(train_arr[0, :])
 
 
 # exercise: count how many times the 
 # 0th token appears across ALL messages in train_arr
+
+
+
+
+
+
+
 train_features[0]
 sum(train_arr[:, 0])
 
 # exercise: count how many times EACH token 
 # appears across ALL messages in train_arr
+
+
+
+
+
+
 np.sum(train_arr, axis=0)
 
 # create a DataFrame of tokens with their counts
@@ -150,9 +171,21 @@ probs
 print metrics.roc_auc_score(y_test, probs)
 
 # exercise: show the message text for the false positives
+
+
+
+
+
+
+
 X_test[y_test < preds]
 
 # exercise: show the message text for the false negatives
+
+
+
+
+
 X_test[y_test > preds]
 
 
@@ -207,10 +240,10 @@ probs = nb.predict_proba(test_dtm)[:, 1]
 probs
 print metrics.roc_auc_score(y_test, probs)
 
-# exercise: show the message text for the false positives
+# show the message text for the false positives
 X_test[y_test < preds]
 
-# exercise: show the message text for the false negatives
+# show the message text for the false negatives
 X_test[y_test > preds]
 
 
