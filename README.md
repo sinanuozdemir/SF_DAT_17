@@ -302,3 +302,31 @@ Today we are going over advanced metrics for classification models and learning 
 
 * Video on [ROC Curves](https://www.youtube.com/watch?v=21Igj5Pr6u4&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (12 minutes).
 * My buddy's [blog post about the ROC video](http://www.dataschool.io/roc-curves-and-auc-explained/) includes the complete transcript and screenshots, in case you learn better by reading instead of watching.
+
+
+
+##Class 13: Decision Trees
+
+We will look into a slightly more complex model today, the Decision Tree.
+
+**Agenda**
+
+* Slides [here](slides/13_trees.pdf)
+* Notebook([here](http://nbviewer.ipython.org/github/sinanuozdemir/SF_DAT_17/blob/master/notebooks/13_decision_trees.ipynb)
+* Some more Code [here](code/13_trees.py)
+
+**Homework**
+
+* Project reviews due next Wednesday!
+
+**Resources**
+
+* Chapter 8.1 of An Introduction to Statistical Learning also covers the basics of Classification and Regression Trees
+* The scikit-learn [documentation](http://scikit-learn.org/stable/modules/tree.html) has a nice summary of the strengths and weaknesses of Trees.
+* For those of you with background in javascript, d3.js has a nice tree layout that would make more presentable tree diagrams:
+   * Here is a link to a [static version](http://bl.ocks.org/mbostock/4339184), as well as a link to a [dynamic version](http://bl.ocks.org/mbostock/4339083) with collapsable nodes.
+   * If this is something you are interested in, Gary Sieling wrote a nice [function](http://www.garysieling.com/blog/rending-scikit-decision-trees-d3-js) in python to take the output of a scikit-learn tree and convert into json format.
+   * If you are intersted in learning d3.js, this a good [tutorial](http://www.d3noob.org/2014/01/tree-diagrams-in-d3js_11.html) for understanding the building blocks of a decision tree. Here is another [tutorial](http://blog.pixelingene.com/2011/07/building-a-tree-diagram-in-d3-js/) focusing on building a tree diagram in d3.js.
+* Dr. Justin Esarey from Rice University has a nice [video lecture](https://www.youtube.com/watch?v=HW7Aib842Oo&hd=1) on CART that also includes an [R code walkthrough](http://jee3.web.rice.edu/cart-and-random-forests.r)
+
+
