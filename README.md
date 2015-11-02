@@ -330,3 +330,12 @@ We will look into a slightly more complex model today, the Decision Tree.
 * Dr. Justin Esarey from Rice University has a nice [video lecture](https://www.youtube.com/watch?v=HW7Aib842Oo&hd=1) on CART that also includes an [R code walkthrough](http://jee3.web.rice.edu/cart-and-random-forests.r)
 
 
+### Class 14: Ensembling
+* Ensembling ([IPython notebook](http://nbviewer.ipython.org/github/sinanuozdemir/SF_DAT_17/blob/master/notebooks/14_ensembling.ipynb))
+* BONUS: Regularization ([IPython notebook](http://nbviewer.ipython.org/github/sinanuozdemir/SF_DAT_17/blob/master/notebooks/14_regularization.ipynb))
+	* Bonus advanced sklearn code [here](code/14_advanced_sklearn.py)
+
+**Resources:**
+
+* scikit-learn documentation: [Ensemble Methods](http://scikit-learn.org/stable/modules/ensemble.html)
+* Quora: [How do random forests work in layman's terms?](http://www.quora.com/How-do-random-forests-work-in-laymans-terms/answer/Edwin-Chen-1)
