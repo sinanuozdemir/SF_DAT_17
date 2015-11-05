@@ -354,4 +354,4 @@ We will look into a slightly more complex model today, the Decision Tree.
 * Some hardcore math in python [here](code/15_pca_svd_class.py)
 * PCA using the iris data set [here](http://scikit-learn.org/0.11/auto_examples/decomposition/plot_pca_iris.html) and with 2 components [here](http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_lda.html)
 * PCA step by step [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
-* Check out [Pyxley](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/) for our guest speaker's (Nick Kridler) talk on Wednesday
+* Check out [Pyxley](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
