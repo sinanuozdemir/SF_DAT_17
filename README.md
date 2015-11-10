@@ -355,3 +355,25 @@ We will look into a slightly more complex model today, the Decision Tree.
 * PCA using the iris data set [here](http://scikit-learn.org/0.11/auto_examples/decomposition/plot_pca_iris.html) and with 2 components [here](http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_lda.html)
 * PCA step by step [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 * Check out [Pyxley](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
+
+### Class 16: Neural Networks and SVM
+
+**Agenda**
+
+* slides [here](slides/16_nn_svm.pdf)
+* code [here](code/16_nn_svm.py)
+
+* Lab [here](labs/16_lab.md)
+
+**Resources**
+
+* An intro to Neural Networks [here](http://natureofcode.com/book/chapter-10-neural-networks/)
+* An intro to [SVM](http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf)
+* SVM Margins Example [here](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_margin.html)
+* SVM digits was adapted from [here](http://pythonprogramming.net/support-vector-machine-svm-example-tutorial-scikit-learn-python/)
+* [Google Deep Dream: why does it always see dogs?!](http://www.fastcodesign.com/3048941/why-googles-deep-dream-ai-hallucinates-in-dog-faces)
+* [Deep Dream Generator](http://deepdreamgenerator.com/)
+* Most used non-sklearn ANN [PyBrain](http://pybrain.org/)
+* Step by Step back propagation [here](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+* Project time signups [here](https://docs.google.com/spreadsheets/d/15Y2w9ENCVSWja3VDviyz8D33Pef6gxN8Ziu3XUblEJo/edit#gid=0)
+
