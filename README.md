@@ -26,8 +26,8 @@ Monday | Wednesday
 10/26: Naive Bayes <br>**Milestone:** First Draft Due | 10/28: Decision Trees 
 11/2: Ensembling Techniques  | 11/4: Dimension Reduction<br>**Milestone:** Peer Review Due
 11/9 Support Vector Machines | 11/11: Web Development with Flask
-11/16: Recommendation Engines | 11/18: TBD
-11/23: TBD | 11/25: Turkey Day (NO CLASS)
+11/16: Recommendation Engines | 11/18: Neural Networks Continued
+11/23: SQL | 11/25: Turkey Day (NO CLASS)
 11/30: Projects | 12/2: Projects
 
 
@@ -376,3 +376,18 @@ We will look into a slightly more complex model today, the Decision Tree.
 * Most used non-sklearn ANN [PyBrain](http://pybrain.org/)
 * Step by Step back propagation [here](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
 
+
+### Class 19: Recommendation Engines
+
+* Recommendation Engines [slides](slides/19_recommendation_engines.pdf)
+* Recommendation Engine Example [code](code/19_recommenders_class.py)
+
+**Resources:**
+
+* [The Netflix Prize](http://www.netflixprize.com/)
+* [Why Netflix never implemented the winning solution](https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml)
+* [Visualization of the Music Genome Project](http://www.music-map.com/)
+* [The People Inside Your Machine](http://www.npr.org/blogs/money/2015/01/30/382657657/episode-600-the-people-inside-your-machine) (23 minutes) is a Planet Money podcast episode about how Amazon Mechanical Turks can assist with recommendation engines (and machine learning in general).
+
+
+* Next class we will have a talk from three engineers from [OpenGov](http://opengov.com) discussing NLP tactics used for governments around the world!
