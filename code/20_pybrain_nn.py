@@ -3,11 +3,23 @@ from sklearn.cross_validation import cross_val_score
 from sklearn import svm
 from sklearn import datasets
 import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestClassifier
+
 olivetti = datasets.fetch_olivetti_faces()
 X, y = olivetti.data, olivetti.target
 
 X.shape
 y.shape
+
+
+
+plt.imshow(X[0].reshape(64, 64), cmap=plt.cm.gray_r)
+plt.imshow(X[1].reshape(64, 64), cmap=plt.cm.gray_r)
+y[0:2]
+
+plt.imshow(X[200].reshape(64, 64), cmap=plt.cm.gray_r)
+plt.imshow(X[201].reshape(64, 64), cmap=plt.cm.gray_r)
+y[200:202]
 
 # Try SVM
 clf = svm.SVC()
@@ -18,14 +30,10 @@ cross_val_score(clf, X, y, cv=5, scoring='accuracy').mean()
 logistic = LogisticRegression()
 cross_val_score(logistic, X, y, cv=5, scoring='accuracy').mean()
 
+# Try Random Forest
+rfclf = RandomForestClassifier(n_estimators=100, max_features='auto', oob_score=True, random_state=1)
+cross_val_score(rfclf, X, y, cv=5, scoring='accuracy').mean()
 
-plt.imshow(X[0].reshape(64, 64), cmap=plt.cm.gray_r)
-plt.imshow(X[1].reshape(64, 64), cmap=plt.cm.gray_r)
-y[0:2]
-
-plt.imshow(X[200].reshape(64, 64), cmap=plt.cm.gray_r)
-plt.imshow(X[201].reshape(64, 64), cmap=plt.cm.gray_r)
-y[200:202]
 
 from pybrain.datasets            import ClassificationDataSet
 from pybrain.utilities           import percentError
