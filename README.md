@@ -391,3 +391,20 @@ We will look into a slightly more complex model today, the Decision Tree.
 
 
 * Next class we will have a talk from three engineers from [OpenGov](http://opengov.com) discussing NLP tactics used for governments around the world!
+
+
+### Class 20: More Neural Networks
+
+* We will need a new package!   `sudo pip install pybrain`
+* Recap [here](slides/16_nn_svm.pdf)
+* Let's build our own! [here](code/20_our_nn.py)
+* Let's use [Pybrain](http://pybrain.org/)! [here](code/20_pybrain_nn.py)
+* A talk from OpenGov
+
+**Resources**
+
+* Code adapted from [here](http://iamtrask.github.io/2015/07/12/basic-python-network/) and [here](http://corpocrat.com/2014/10/10/tutorial-pybrain-neural-network-for-classifying-olivetti-faces/)
+* Calculus adapted from [here](http://math.stackexchange.com/questions/78575/derivative-of-sigmoid-function-sigma-x-frac11e-x)
+* Sklearn will come out with their own supervised neural network soon! [here](http://scikit-learn.org/dev/modules/neural_networks_supervised.html)
+
+
