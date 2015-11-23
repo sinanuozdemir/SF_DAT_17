@@ -377,7 +377,7 @@ We will look into a slightly more complex model today, the Decision Tree.
 * Step by Step back propagation [here](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
 
 
-### Class 19: Recommendation Engines
+### Class 18: Recommendation Engines
 
 * Recommendation Engines [slides](slides/19_recommendation_engines.pdf)
 * Recommendation Engine Example [code](code/19_recommenders_class.py)
@@ -393,7 +393,7 @@ We will look into a slightly more complex model today, the Decision Tree.
 * Next class we will have a talk from three engineers from [OpenGov](http://opengov.com) discussing NLP tactics used for governments around the world!
 
 
-### Class 20: More Neural Networks
+### Class 19: More Neural Networks
 
 * We will need a new package!   `sudo pip install pybrain`
 * Recap [here](slides/16_nn_svm.pdf)
@@ -406,5 +406,26 @@ We will look into a slightly more complex model today, the Decision Tree.
 * Code adapted from [here](http://iamtrask.github.io/2015/07/12/basic-python-network/) and [here](http://corpocrat.com/2014/10/10/tutorial-pybrain-neural-network-for-classifying-olivetti-faces/)
 * Calculus adapted from [here](http://math.stackexchange.com/questions/78575/derivative-of-sigmoid-function-sigma-x-frac11e-x)
 * Sklearn will come out with their own supervised neural network soon! [here](http://scikit-learn.org/dev/modules/neural_networks_supervised.html)
+
+
+### Class 20: Databases and SQL
+
+* Slides [here](slides/20_db_sql.pdf)
+* Code [here](code/20_sql.py)
+* Lab [here](labs/20_sql_lab.py) with solutions [here](labs/20_sql_lab_solutions.py)
+
+
+**Resources**
+
+* This [GA notebook](https://github.com/podopie/DAT18NYC/blob/master/classes/17-relational_databases.ipynb) provides a shorter introduction to databases and SQL that helpfully contrasts SQL queries with Pandas syntax.
+* [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial), [Mode Analytics](http://sqlschool.modeanalytics.com/), [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql), [Codecademy](https://www.codecademy.com/courses/learn-sql), [Datamonkey](http://datamonkey.pro/guess_sql/lessons/), and [Code School](http://campus.codeschool.com/courses/try-sql/contents) all have online beginner SQL tutorials that look promising. Code School also offers an [advanced tutorial](https://www.codeschool.com/courses/the-sequel-to-sql/), though it's not free.
+* [w3schools](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) has a sample database that allows you to practice SQL from your browser. Similarly, Kaggle allows you to query a large SQLite database of [Reddit Comments](https://www.kaggle.com/c/reddit-comments-may-2015/data) using their online "Scripts" application.
+* [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/) is a brief series of posts about SQL basics, and [Introduction to SQL for Data Scientists](http://bensresearch.com/downloads/SQL.pdf) is a paper with similar goals.
+* [10 Easy Steps to a Complete Understanding of SQL](https://web.archive.org/web/20150402234726/http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql) is a good article for those who have some SQL experience and want to understand it at a deeper level.
+* SQLite's article on [Query Planning](http://www.sqlite.org/queryplanner.html) explains how SQL queries "work".
+* [A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) gives the pros and cons of SQLite, MySQL, and PostgreSQL.
+* If you want to go deeper into databases and SQL, Stanford has a well-respected series of [14 mini-courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about).
+* [Blaze](http://blaze.pydata.org) is a Python package enabling you to use Pandas-like syntax to query data living in a variety of data storage systems.
+
 
 
